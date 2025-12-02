@@ -1,6 +1,6 @@
 {
   "animations": [
-    {"src": "https://www.animatedimages.org/data/media/570/animated-merry-christmas-image-0116.gif", "style": {"width": 150, "aspectRatio": 1.9585798816568047, "position": "absolute", "left": 64, "bottom": 4}, "onSidebarClose": "hide"},
+    {"src": "https://giffiles.alphacoders.com/279/27996.gif", "style": {"width": 150, "aspectRatio": 2.36686390533, "position": "absolute", "left": 64, "bottom": 4}, "onSidebarClose": "hide"},
     {"src": "https://ugokawaii.com/wp-content/uploads/2023/12/santaclaus.gif", "style": { "width": 56, "aspectRatio": 1, "margin": 4 } }
   ],
   "parentStyle": ""
