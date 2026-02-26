@@ -1,0 +1,61 @@
+{
+  "apps": [
+    {
+      "name": "Netflix",
+      "color": "#c65549",
+      "navigateTo": "NetflixHomeScreen",
+      "img": "https://images.ctfassets.net/y2ske730sjqp/1aONibCke6niZhgPxuiilC/2c401b05a07288746ddf3bd3943fbc76/BrandAssets_Logos_01-Wordmark.jpg?w=940"
+    },
+    {
+      "name": "Prime Video",
+      "color": "#1e98ff",
+      "img": "https://i.vimeocdn.com/video/1586162092-020d20c6f8b5fd388ed06ba6929021b826007c55c5fa007f23d6fbac44c2e489-d?f=webp"
+    },
+    {
+      "name": "Disney+",
+      "color": "#21489f",
+      "img": "https://cdn.mos.cms.futurecdn.net/2zimuzZc9XoW6aRRZMSQh6-1200-80.jpg"
+    }
+  ],
+  "decodedWebsites": [
+    {
+      "name": "XGROOVY",
+      "navigateTo": "Home",
+      "textColor": "#dd2700",
+      "color": "#5a13ff",
+      "adult": true,
+      "likes": 10,
+      "requestForUI": 21
+    },
+    {
+      "name": "PORNHUB",
+      "id": "pornhub",
+      "plan": 2,
+      "navigateTo": "FrameworkNavigationScreen",
+      "color": "#f99c28",
+      "img": "https://images-r2-1.thebrag.com/tb/uploads/2020/03/Pornhub-768x435.jpg",
+      "adult": true,
+      "likes": 10,
+      "requestForUI": 21
+    },
+    {
+      "name": "XHAMSTER",
+      "id": "xhamster",
+      "plan": 2,
+      "navigateTo": "FrameworkNavigationScreen",
+      "color": "#e34449",
+      "img": "https://www.mediastorehouse.com/p/791/xhamster-logo-logo-47531981.jpg.webp",
+      "adult": true,
+      "likes": 10,
+      "requestForUI": 21
+    },
+    {
+      "name": "Dressing Room",
+      "hidden": true,
+      "color": "#1c91ff",
+      "navigateTo": "DressingRoomHome",
+      "adult": true,
+      "plan": 2
+    }
+  ]
+}
