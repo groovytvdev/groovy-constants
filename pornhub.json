@@ -1,0 +1,307 @@
+[
+  {
+    "id": "home",
+    "label": "Home",
+    "icon": "house",
+    "type": "home",
+    "props": {
+      "videoInjection": "try{window.ReactNativeWebView.postMessage( JSON.stringify( ({ imageHeaders: { 'Referer': 'https://www.pornhub.org/' }, headers: { 'Referer': 'https://www.pornhub.org/' }, links: [{ name: document.querySelectorAll('.userBoxWrapper a')[1].textContent, link: document.querySelectorAll('.userBoxWrapper a')[1].href, channel: !!document.querySelector(\"a[data-label='channel']\"), star: !document.querySelector(\"a[data-label='channel']\"), img: document.querySelectorAll('.userBoxWrapper a')[0].firstElementChild.src }, ...[...document.querySelectorAll(\"a[data-label='pornstar']\")].map((a)=>({ link: a.href, name: a.textContent.trim(), star: true, img: a.firstElementChild.src })), ...[...document.querySelectorAll('a.item')].map((a)=>({ link: a.href, name: a.textContent })) ], url: Object.fromEntries(window[Object.keys(window).find(k => k.startsWith('flashvars_'))].mediaDefinitions.filter((i)=>i.format==='hls').map((i)=>([ i.quality+'p', i.videoUrl ]))),likes:document.querySelector('#thumbs-up > span').textContent.trim(),views: document.querySelector('li.views > span').textContent,recommendedVideos: [...document.querySelectorAll('li[data-video-id] a[data-video-id]')].map((i)=>({ title: i.querySelector('img').alt, src: i.href, duration: i.parentElement.querySelector('span.bgEffect.time').textContent, thumbnailUrl: i.querySelector('img').src, preview: i.getAttribute('data-webm') })).slice(0,15), ready: true }) ))}catch(e){window.ReactNativeWebView.postMessage( JSON.stringify({ error: e.message }));}",
+      "src": "https://www.pornhub.org/",
+      "imageHeaders": {
+        "Referer": "https://www.pornhub.org/"
+      },
+      "injection": "if(document.querySelectorAll(\"button.gtm-event-age-verification\")[1]) document.querySelectorAll(\"button.gtm-event-age-verification\")[1].click();try{window.ReactNativeWebView.postMessage( JSON.stringify(  { links: [...document.querySelectorAll(\".trendingNow[type='button'] > a\")].map((e)=>({ src: e.href, name: e.textContent.trim(), star: e.href.includes(\"/pornstar/\") || e.href.includes(\"/model/\"), search: e.href.includes(\"/search\")})), list: [...document.querySelectorAll(\"li[data-video-id] a[data-video-id]\")].map((i)=>({ title: i.querySelector(\"img\").alt, src: i.href, duration: i.parentElement.querySelector(\"span.bgEffect.time\").textContent, thumbnailUrl: i.querySelector(\"img\").src, preview: i.getAttribute(\"data-webm\") })).slice(0,30) }  ))}catch(e){window.ReactNativeWebView.postMessage( JSON.stringify( {error: e.message} ));}"
+    }
+  },
+  {
+    "id": "search",
+    "label": "Search",
+    "icon": "magnifying-glass",
+    "type": "search",
+    "props": {
+      "injection": "try{ if(document.querySelectorAll('button.gtm-event-age-verification')[1]) document.querySelectorAll('button.gtm-event-age-verification')[1].click();fetch('https://www.pornhub.org/api/v1/video/search_autocomplete?'+document.querySelector('#search_text')?.getAttribute('data-autocomplete')+'&q='+new URLSearchParams(window.location.search).get('search')+'&pornstars=true').then(res=>res.json()).then(data=>{ window.ReactNativeWebView.postMessage(JSON.stringify( [['Videos', data.queries?.map((q)=>({ title: q })) || data.popularSearches.slice(0,15).map((s)=>({ title: s }))], ['Channels', data.channels?.map((p)=>({ title: p.name, src: 'https://www.pornhub.org/channels/'+p.slug })) ], ['Pornstars', data.pornstars?.map((p)=>({ title: p.name, src: 'https://www.pornhub.org/pornstar/'+p.slug }))], ['Models', data.models?.map((p)=>({ title: p.name, src: 'https://www.pornhub.org/model/'+p.slug })) ] ] ))    }); } catch(e) { window.ReactNativeWebView.postMessage(JSON.stringify( { error: 'Injection Error', message: e.message } )) }",
+      "src": "https://www.pornhub.org/video/search?search=${searchQuery}",
+      "open": {
+        "type": "searchVideos",
+        "injection": "if(document.querySelectorAll('button.gtm-event-age-verification')[1]) document.querySelectorAll('button.gtm-event-age-verification')[1].click(); window.ReactNativeWebView.postMessage( JSON.stringify(  { lastPage: parseInt( document.querySelector('.paginationContainer ul li:last-child')?.textContent ), list: [...document.querySelectorAll('li[data-video-id] a[data-video-id]')].map((i)=>({ title: i.querySelector('img').alt, src: i.href, duration: i.parentElement.querySelector('span.bgEffect.time').textContent, thumbnailUrl: i.querySelector('img').src, preview: i.getAttribute('data-webm') })).slice(0,30)} ))",
+        "videoInjection": "try{window.ReactNativeWebView.postMessage( JSON.stringify( ({ imageHeaders: { 'Referer': 'https://www.pornhub.org/' }, headers: { 'Referer': 'https://www.pornhub.org/' }, links: [{ name: document.querySelectorAll('.userBoxWrapper a')[1].textContent, link: document.querySelectorAll('.userBoxWrapper a')[1].href, channel: !!document.querySelector(\"a[data-label='channel']\"), star: !document.querySelector(\"a[data-label='channel']\"), img: document.querySelectorAll('.userBoxWrapper a')[0].firstElementChild.src }, ...[...document.querySelectorAll(\"a[data-label='pornstar']\")].map((a)=>({ link: a.href, name: a.textContent.trim(), star: true, img: a.firstElementChild.src })), ...[...document.querySelectorAll('a.item')].map((a)=>({ link: a.href, name: a.textContent })) ], url: Object.fromEntries(window[Object.keys(window).find(k => k.startsWith('flashvars_'))].mediaDefinitions.filter((i)=>i.format==='hls').map((i)=>([ i.quality+'p', i.videoUrl ]))),likes:document.querySelector('#thumbs-up > span').textContent.trim(),views: document.querySelector('li.views > span').textContent,recommendedVideos: [...document.querySelectorAll('li[data-video-id] a[data-video-id]')].map((i)=>({ title: i.querySelector('img').alt, src: i.href, duration: i.parentElement.querySelector('span.bgEffect.time').textContent, thumbnailUrl: i.querySelector('img').src, preview: i.getAttribute('data-webm') })).slice(0,15), ready: true }) ))}catch(e){window.ReactNativeWebView.postMessage( JSON.stringify({ error: e.message }));}",
+        "links": [
+          "/search"
+        ],
+        "tabs": [
+          {
+            "name": "Most Relevant",
+            "src": "https://www.pornhub.org/video/search?search=${searchQuery}&page=${page}"
+          },
+          {
+            "name": "Most Recent",
+            "src": "https://www.pornhub.org/video/search?search=${searchQuery}&o=mr&page=${page}"
+          },
+          {
+            "name": "Most Viewed",
+            "src": "https://www.pornhub.org/video/search?search=${searchQuery}&o=mv&page=${page}"
+          },
+          {
+            "name": "Top Rated",
+            "src": "https://www.pornhub.org/video/search?search=${searchQuery}&o=tr&page=${page}"
+          },
+          {
+            "name": "Longest",
+            "src": "https://www.pornhub.org/video/search?search=${searchQuery}&o=lg&page=${page}"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "favorites",
+    "label": "Favorites",
+    "icon": "star",
+    "type": "favorites",
+    "props": {
+      "imageHeaders": {
+        "Referer": "https://www.pornhub.org/"
+      },
+      "videoInjection": "try{window.ReactNativeWebView.postMessage( JSON.stringify( ({ imageHeaders: { 'Referer': 'https://www.pornhub.org/' }, headers: { 'Referer': 'https://www.pornhub.org/' }, links: [{ name: document.querySelectorAll('.userBoxWrapper a')[1].textContent, link: document.querySelectorAll('.userBoxWrapper a')[1].href, channel: !!document.querySelector(\"a[data-label='channel']\"), star: !document.querySelector(\"a[data-label='channel']\"), img: document.querySelectorAll('.userBoxWrapper a')[0].firstElementChild.src }, ...[...document.querySelectorAll(\"a[data-label='pornstar']\")].map((a)=>({ link: a.href, name: a.textContent.trim(), star: true, img: a.firstElementChild.src })), ...[...document.querySelectorAll('a.item')].map((a)=>({ link: a.href, name: a.textContent })) ], url: Object.fromEntries(window[Object.keys(window).find(k => k.startsWith('flashvars_'))].mediaDefinitions.filter((i)=>i.format==='hls').map((i)=>([ i.quality+'p', i.videoUrl ]))),likes:document.querySelector('#thumbs-up > span').textContent.trim(),views: document.querySelector('li.views > span').textContent,recommendedVideos: [...document.querySelectorAll('li[data-video-id] a[data-video-id]')].map((i)=>({ title: i.querySelector('img').alt, src: i.href, duration: i.parentElement.querySelector('span.bgEffect.time').textContent, thumbnailUrl: i.querySelector('img').src, preview: i.getAttribute('data-webm') })).slice(0,15), ready: true }) ))}catch(e){window.ReactNativeWebView.postMessage( JSON.stringify({ error: e.message }));}"
+    }
+  },
+  {
+    "id": "categories",
+    "label": "Categories",
+    "icon": "tags",
+    "type": "collections",
+    "props": {
+      "injection": "try{ if(document.querySelectorAll('button.gtm-event-age-verification')[1]) document.querySelectorAll('button.gtm-event-age-verification')[1].click();window.ReactNativeWebView.postMessage(JSON.stringify( { list: [...document.querySelectorAll('.categoriesListSection')[1].querySelectorAll('li div.relativeWrapper')].map((d)=>({ src: d.querySelector('a.js-videoPreview')?.href.includes('?') ? d.querySelector('a.js-videoPreview')?.href:d.querySelector('a.js-videoPreview')?.href+'?', imgSrc: d.querySelector('img')?.src, title: d.querySelector('.categoryTitleWrapper strong')?.textContent, bl: d.querySelector('.videoCount > var').textContent+' Videos' })) })); } catch(e) { window.ReactNativeWebView.postMessage(JSON.stringify( { error: 'Injection Error', message: e.message } )) }",
+      "tabs": [
+        {
+          "name": "Categories",
+          "src": "https://www.pornhub.org/categories"
+        }
+      ],
+      "open": {
+        "type": "videos",
+        "links": [
+          "/categories/",
+          "/video?c="
+        ],
+        "tabs": [
+          {
+            "name": "Featured Recently",
+            "src": "${src}&page=${page}"
+          },
+          {
+            "name": "Most Viewed",
+            "src": "${src}&o=mv&page=${page}"
+          },
+          {
+            "name": "Top Rated",
+            "src": "${src}&o=tr&page=${page}"
+          },
+          {
+            "name": "Hottest",
+            "src": "${src}&o=ht&page=${page}"
+          },
+          {
+            "name": "Longest",
+            "src": "${src}&o=lg&page=${page}"
+          },
+          {
+            "name": "Newest",
+            "src": "${src}&o=cm&page=${page}"
+          }
+        ],
+        "injection": "try{ if(document.querySelectorAll('button.gtm-event-age-verification')[1]) document.querySelectorAll('button.gtm-event-age-verification')[1].click(); window.ReactNativeWebView.postMessage(JSON.stringify( { headerDetails: {'Referer': 'https://www.pornhub.org/'}, lastPage: parseInt( document.querySelector('.paginationContainer ul li:last-child')?.textContent ), list: [...document.querySelectorAll('li[data-video-id] a.js-videoPreview')].map((i)=>({ title: i.querySelector('img').alt, src: i.href, duration: i.parentElement.querySelector('span.time')?.textContent, thumbnailUrl: i.querySelector('img').src, preview: i.getAttribute('data-webm') })).slice(0,30)} )) } catch(e) { window.ReactNativeWebView.postMessage(JSON.stringify( { error: 'Star Videos Injection Error', message: e.message } )); }",
+        "videoInjection": "try{window.ReactNativeWebView.postMessage( JSON.stringify( ({ imageHeaders: { 'Referer': 'https://www.pornhub.org/' }, headers: { 'Referer': 'https://www.pornhub.org/' }, links: [{ name: document.querySelectorAll('.userBoxWrapper a')[1].textContent, link: document.querySelectorAll('.userBoxWrapper a')[1].href, channel: !!document.querySelector(\"a[data-label='channel']\"), star: !document.querySelector(\"a[data-label='channel']\"), img: document.querySelectorAll('.userBoxWrapper a')[0].firstElementChild.src }, ...[...document.querySelectorAll(\"a[data-label='pornstar']\")].map((a)=>({ link: a.href, name: a.textContent.trim(), star: true, img: a.firstElementChild.src })), ...[...document.querySelectorAll('a.item')].map((a)=>({ link: a.href, name: a.textContent })) ], url: Object.fromEntries(window[Object.keys(window).find(k => k.startsWith('flashvars_'))].mediaDefinitions.filter((i)=>i.format==='hls').map((i)=>([ i.quality+'p', i.videoUrl ]))),likes:document.querySelector('#thumbs-up > span').textContent.trim(),views: document.querySelector('li.views > span').textContent,recommendedVideos: [...document.querySelectorAll('li[data-video-id] a[data-video-id]')].map((i)=>({ title: i.querySelector('img').alt, src: i.href, duration: i.parentElement.querySelector('span.bgEffect.time').textContent, thumbnailUrl: i.querySelector('img').src, preview: i.getAttribute('data-webm') })).slice(0,15), ready: true }) ))}catch(e){window.ReactNativeWebView.postMessage( JSON.stringify({ error: e.message }));}"
+      },
+      "imgAspectRatio": 1.7699115044247788
+    }
+  },
+  {
+    "id": "channels",
+    "label": "Channels",
+    "icon": "grip",
+    "type": "collections",
+    "props": {
+      "injection": "try{ if(document.querySelectorAll('button.gtm-event-age-verification')[1]) document.querySelectorAll('button.gtm-event-age-verification')[1].click();window.ReactNativeWebView.postMessage(JSON.stringify( { lastPage: parseInt( document.querySelector('.paginationContainer ul li:last-child')?.textContent ), list: [...document.querySelectorAll('.channelsListContent > li')].map((e)=>({ tl: e.querySelector('.rank > span').textContent.trim(), imgSrc: e.querySelector('img').src, title: e.querySelector('img').alt, bl: e.querySelectorAll('li.info > span')[1].textContent.trim() + ' Videos', src: e.querySelector('a').href })) }  )) } catch(e) { window.ReactNativeWebView.postMessage(JSON.stringify( { error: 'Injection Error', message: e.message } )) }",
+      "imgAspectRatio": 1,
+      "small": true,
+      "tabs": [
+        {
+          "name": "All Channels",
+          "src": "https://www.pornhub.org/channels"
+        },
+        {
+          "name": "Most Popular",
+          "src": "https://www.pornhub.org/channels?o=rk&page=${page}"
+        },
+        {
+          "name": "Trending",
+          "src": "https://www.pornhub.org/channels?o=tr&page=${page}"
+        },
+        {
+          "name": "Most Recent",
+          "src": "https://www.pornhub.org/channels?o=mr&page=${page}"
+        },
+        {
+          "name": "Alphabetical",
+          "src": "https://www.pornhub.org/channels?o=al&l=${sublistValue}&page=${page}",
+          "sublist": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "f",
+            "g",
+            "h",
+            "i",
+            "j",
+            "k",
+            "l",
+            "m",
+            "n",
+            "o",
+            "p",
+            "q",
+            "r",
+            "s",
+            "t",
+            "u",
+            "v",
+            "w",
+            "x",
+            "y",
+            "z",
+            "#"
+          ]
+        }
+      ],
+      "open": {
+        "links": [
+          "/channels/"
+        ],
+        "type": "channelVideos",
+        "tabs": [
+          {
+            "name": "Most Recent",
+            "src": "${src}/videos?page=${page}"
+          },
+          {
+            "name": "Top Rated",
+            "src": "${src}/videos?o=ra&page=${page}"
+          },
+          {
+            "name": "Most Viewed",
+            "src": "${src}/videos?o=vi&page=${page}"
+          }
+        ],
+        "injection": "try{ if(document.querySelectorAll('button.gtm-event-age-verification')[1]) document.querySelectorAll('button.gtm-event-age-verification')[1].click(); window.ReactNativeWebView.postMessage(JSON.stringify( { imageHeaders: {'Referer': 'https://www.pornhub.org/'}, channelDetails: { views: document.querySelectorAll('.channelStats div')[3].textContent, videos: document.querySelectorAll('.channelStats div')[2].textContent, subscribers: document.querySelectorAll('.channelStats div')[1].textContent, rank: document.querySelectorAll('.channelStats div')[0].textContent, imgSrc: document.querySelector('.avatar > img')?.src, coverImgSrc: document.querySelector('.cover > img')?.src }, lastPage: parseInt( document.querySelector('.paginationContainer ul li:last-child')?.textContent ), list: [...document.querySelectorAll('li[data-video-id] a.js-videoPreview')].map((i)=>({ title: i.querySelector('img').alt, src: i.href, duration: i.parentElement.querySelector('span.time')?.textContent, thumbnailUrl: i.querySelector('img').src, preview: i.getAttribute('data-webm') })).slice(0,30) } )) } catch(e) { window.ReactNativeWebView.postMessage(JSON.stringify( { error: 'Star Videos Injection Error', message: e.message } )); }",
+        "videoInjection": "try{window.ReactNativeWebView.postMessage( JSON.stringify( ({ imageHeaders: { 'Referer': 'https://www.pornhub.org/' }, headers: { 'Referer': 'https://www.pornhub.org/' }, links: [{ name: document.querySelectorAll('.userBoxWrapper a')[1].textContent, link: document.querySelectorAll('.userBoxWrapper a')[1].href, channel: !!document.querySelector(\"a[data-label='channel']\"), star: !document.querySelector(\"a[data-label='channel']\"), img: document.querySelectorAll('.userBoxWrapper a')[0].firstElementChild.src }, ...[...document.querySelectorAll(\"a[data-label='pornstar']\")].map((a)=>({ link: a.href, name: a.textContent.trim(), star: true, img: a.firstElementChild.src })), ...[...document.querySelectorAll('a.item')].map((a)=>({ link: a.href, name: a.textContent })) ], url: Object.fromEntries(window[Object.keys(window).find(k => k.startsWith('flashvars_'))].mediaDefinitions.filter((i)=>i.format==='hls').map((i)=>([ i.quality+'p', i.videoUrl ]))),likes:document.querySelector('#thumbs-up > span').textContent.trim(),views: document.querySelector('li.views > span').textContent,recommendedVideos: [...document.querySelectorAll('li[data-video-id] a[data-video-id]')].map((i)=>({ title: i.querySelector('img').alt, src: i.href, duration: i.parentElement.querySelector('span.bgEffect.time').textContent, thumbnailUrl: i.querySelector('img').src, preview: i.getAttribute('data-webm') })).slice(0,15), ready: true }) ))}catch(e){window.ReactNativeWebView.postMessage( JSON.stringify({ error: e.message }));}"
+      }
+    }
+  },
+  {
+    "id": "stars",
+    "label": "Pornstars",
+    "icon": "user",
+    "type": "collections",
+    "props": {
+      "injection": "try{ if(document.querySelectorAll('button.gtm-event-age-verification')[1]) document.querySelectorAll('button.gtm-event-age-verification')[1].click();window.ReactNativeWebView.postMessage(JSON.stringify( { lastPage: parseInt( document.querySelector('.paginationContainer ul li:last-child')?.textContent ), list: [...document.querySelectorAll('#pornstarListSection .pornstarLink')].map((e)=>({ bl: e.parentElement?.querySelector('.videos.performerCount')?.textContent.trim(), tl: e.querySelector('.rank_number')?.textContent.trim(), src: e.href, title: e.querySelector('.title').textContent.trim(), imgSrc: e.querySelector('img').src }))}  )) } catch(e) { window.ReactNativeWebView.postMessage(JSON.stringify( { error: 'Injection Error', message: e.message } )) }",
+      "tabs": [
+        {
+          "name": "Most Popular",
+          "src": "https://www.pornhub.org/pornstars?page=${page}"
+        },
+        {
+          "name": "Most Viewed",
+          "src": "https://www.pornhub.org/pornstars?o=mv&page=${page}"
+        },
+        {
+          "name": "Top Trending",
+          "src": "https://www.pornhub.org/pornstars?o=t&page=${page}"
+        },
+        {
+          "name": "Most Subscribed",
+          "src": "https://www.pornhub.org/pornstars?o=ms&page=${page}"
+        },
+        {
+          "name": "Alphabetical",
+          "src": "https://www.pornhub.org/pornstars?o=a&l=${sublistValue}&page=${page}",
+          "sublist": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "f",
+            "g",
+            "h",
+            "i",
+            "j",
+            "k",
+            "l",
+            "m",
+            "n",
+            "o",
+            "p",
+            "q",
+            "r",
+            "s",
+            "t",
+            "u",
+            "v",
+            "w",
+            "x",
+            "y",
+            "z",
+            "#"
+          ]
+        },
+        {
+          "name": "No of Videos",
+          "src": "https://www.pornhub.org/pornstars?o=nv&page=${page}"
+        },
+        {
+          "name": "Random",
+          "src": "https://www.pornhub.org/pornstars?o=r&page=${page}"
+        }
+      ],
+      "open": {
+        "type": "starVideos",
+        "links": [
+          "/pornstar/",
+          "/model/"
+        ],
+        "tabs": [
+          {
+            "name": "All",
+            "src": "${src}"
+          },
+          {
+            "name": "Best",
+            "src": "${src}/videos?page=${page}"
+          },
+          {
+            "name": "Most Recent",
+            "src": "${src}/videos?o=mr&page=${page}"
+          },
+          {
+            "name": "Most Viewed",
+            "src": "${src}/videos?o=mv&page=${page}"
+          },
+          {
+            "name": "Top Rated",
+            "src": "${src}/videos?o=tr&page=${page}"
+          },
+          {
+            "name": "Longest",
+            "src": "${src}/videos?o=lg&page=${page}"
+          }
+        ],
+        "injection": "try{ if(document.querySelectorAll('button.gtm-event-age-verification')[1]) document.querySelectorAll('button.gtm-event-age-verification')[1].click(); window.ReactNativeWebView.postMessage(JSON.stringify( { starImgSrc: document.querySelector('#getAvatar')?.src, headerDetails: {'Referer': 'https://www.pornhub.org/'}, starDetails: !document.querySelector('.infoBlock') ? null : [...[ ...document.querySelectorAll('.infoBlock')].map((ele)=>[ele.querySelector('span').textContent.slice(0,-1), ele.querySelector('.smallInfo').textContent.trim()]).filter((e)=> ['Gender', 'Ethnicity', 'Hair Color', 'Videos Watched'].includes(e[0])), ['Model Rank', document.querySelector('.rankInfo > .big').textContent.trim()]], lastPage: parseInt( document.querySelector('.paginationContainer ul li:last-child')?.textContent ), list: [...(window.location.href.includes('/videos') ? document.querySelectorAll('ul.latestThumbDesign')[1] || document.querySelectorAll('ul.latestThumbDesign')[0] : document).querySelectorAll('li[data-video-id] a[data-video-id]')].map((i)=>({ title: i.querySelector('img').alt, src: i.href, duration: i.parentElement.querySelector('span.bgEffect.time').textContent, thumbnailUrl: i.querySelector('img').src, preview: i.getAttribute('data-webm') })).slice(0,30)} )) } catch(e) { window.ReactNativeWebView.postMessage(JSON.stringify( { error: 'Star Videos Injection Error', message: e.message } )); }",
+        "videoInjection": "try{window.ReactNativeWebView.postMessage( JSON.stringify( ({ imageHeaders: { 'Referer': 'https://www.pornhub.org/' }, headers: { 'Referer': 'https://www.pornhub.org/' }, links: [{ name: document.querySelectorAll('.userBoxWrapper a')[1].textContent, link: document.querySelectorAll('.userBoxWrapper a')[1].href, channel: !!document.querySelector(\"a[data-label='channel']\"), star: !document.querySelector(\"a[data-label='channel']\"), img: document.querySelectorAll('.userBoxWrapper a')[0].firstElementChild.src }, ...[...document.querySelectorAll(\"a[data-label='pornstar']\")].map((a)=>({ link: a.href, name: a.textContent.trim(), star: true, img: a.firstElementChild.src })), ...[...document.querySelectorAll('a.item')].map((a)=>({ link: a.href, name: a.textContent })) ], url: Object.fromEntries(window[Object.keys(window).find(k => k.startsWith('flashvars_'))].mediaDefinitions.filter((i)=>i.format==='hls').map((i)=>([ i.quality+'p', i.videoUrl ]))),likes:document.querySelector('#thumbs-up > span').textContent.trim(),views: document.querySelector('li.views > span').textContent,recommendedVideos: [...document.querySelectorAll('li[data-video-id] a[data-video-id]')].map((i)=>({ title: i.querySelector('img').alt, src: i.href, duration: i.parentElement.querySelector('span.bgEffect.time').textContent, thumbnailUrl: i.querySelector('img').src, preview: i.getAttribute('data-webm') })).slice(0,15), ready: true }) ))}catch(e){window.ReactNativeWebView.postMessage( JSON.stringify({ error: e.message }));}"
+      },
+      "imgAspectRatio": 1
+    }
+  }
+]
