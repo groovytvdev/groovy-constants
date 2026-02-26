@@ -1,0 +1,275 @@
+[
+  {
+    "id": "home",
+    "label": "Home",
+    "icon": "house",
+    "type": "home",
+    "props": {
+      "videoInjection": "try{window.ReactNativeWebView.postMessage( JSON.stringify( ({ imageHeaders: { 'Referer': 'https://www.xhamster.com/' }, headers: { 'Referer': 'https://www.xhamster.com/' }, links: initials.videoTagsComponent.tags.map((e)=>({ name: e.name, link: e.url, img: e.thumbUrl, star: e.isPornstar, channel: e.isBrand || e.isChannel })), url: { 'auto': xplayer?.core?.sourceController?.hlsSource}, likes: initials?.videoEntity?.rating?.likes, views: initials?.videoEntity?.views, recommendedVideos: initials?.videoPageComponent?.relatedVideos?.videoTabInitialData?.videoListProps?.videoThumbProps?.slice(0,18).map(e=>({ title: e.title, thumbnailUrl: e.thumbURL, preview: e.trailerURL, src: e.pageURL, duration: new Date(e.duration * 1000).toISOString().substring(e.duration >= 3600 ? 11 : 14, 19) })), ready: true }) ))}catch(e){window.ReactNativeWebView.postMessage( JSON.stringify({ error: e.message }));}",
+      "src": "https://www.xhamster.com/",
+      "imageHeaders": {
+        "Referer": "https://www.xhamster.com/"
+      },
+      "injection": "try{window.ReactNativeWebView.postMessage( JSON.stringify(  { links: initials.layout.layoutBottomMobileProps.categoriesBottomProps.items.filter((e)=>e.id).slice(0,20).map((e)=>({ name: e.label, src: e.href})), list: initials.layoutPage.videoListProps.videoThumbProps.slice(0,30).map(e=>({ title: e.title, thumbnailUrl: e.thumbURL, preview: e.trailerURL, src: e.pageURL, duration: new Date(e.duration * 1000).toISOString().substring(e.duration >= 3600 ? 11 : 14, 19) })) }  ))}catch(e){window.ReactNativeWebView.postMessage( JSON.stringify( {error: e.message} ));}"
+    }
+  },
+  {
+    "id": "search",
+    "label": "Search",
+    "icon": "magnifying-glass",
+    "type": "apiSearch",
+    "props": {
+      "src": "https://xhamster.com/api/front/search/suggest?searchValue=${searchQuery}&searchScope=video&orientation=straight",
+      "srcHeaders": {},
+      "rule": "data.map((d) => ({ title: d.plainText, img: d.avatar, src: d.link }))",
+      "open": {
+        "type": "searchVideos",
+        "label": "Search",
+        "injection": "window.ReactNativeWebView.postMessage( JSON.stringify(  { lastPage: initials.pagination.maxPages, list: initials.searchResult.videoThumbProps.slice(0,30).map(e=>({ title: e.title, thumbnailUrl: e.thumbURL, preview: e.trailerURL, src: e.pageURL, duration: new Date(e.duration * 1000).toISOString().substring(e.duration >= 3600 ? 11 : 14, 19) }))  } ))",
+        "videoInjection": "try{window.ReactNativeWebView.postMessage( JSON.stringify( ({ imageHeaders: { 'Referer': 'https://www.xhamster.com/' }, headers: { 'Referer': 'https://www.xhamster.com/' }, links: initials.videoTagsComponent.tags.map((e)=>({ name: e.name, link: e.url, img: e.thumbUrl, star: e.isPornstar, channel: e.isBrand || e.isChannel })), url: { 'auto': xplayer?.core?.sourceController?.hlsSource}, likes: initials?.videoEntity?.rating?.likes, views: initials?.videoEntity?.views, recommendedVideos: initials?.videoPageComponent?.relatedVideos?.videoTabInitialData?.videoListProps?.videoThumbProps?.slice(0,18).map(e=>({ title: e.title, thumbnailUrl: e.thumbURL, preview: e.trailerURL, src: e.pageURL, duration: new Date(e.duration * 1000).toISOString().substring(e.duration >= 3600 ? 11 : 14, 19) })), ready: true }) ))}catch(e){window.ReactNativeWebView.postMessage( JSON.stringify({ error: e.message }));}",
+        "links": [
+          "/search/"
+        ],
+        "tabs": [
+          {
+            "name": "Most Relevant",
+            "src": "https://xhamster.com/search/${searchQuery}?page=2"
+          },
+          {
+            "name": "Most Recent",
+            "src": "https://xhamster.com/search/${searchQuery}?sort=newest&page=${page}"
+          },
+          {
+            "name": "Most Viewed",
+            "src": "https://xhamster.com/search/${searchQuery}?sort=views&page=${page}"
+          },
+          {
+            "name": "Top Rated",
+            "src": "https://xhamster.com/search/${searchQuery}?sort=best&page=${page}"
+          },
+          {
+            "name": "Longest",
+            "src": "https://xhamster.com/search/${searchQuery}?sort=longest&page=${page}"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "favorites",
+    "label": "Favorites",
+    "icon": "star",
+    "type": "favorites",
+    "props": {
+      "imageHeaders": {
+        "Referer": "https://www.xhamster.com/"
+      },
+      "videoInjection": "try{window.ReactNativeWebView.postMessage( JSON.stringify( ({ imageHeaders: { 'Referer': 'https://www.xhamster.com/' }, headers: { 'Referer': 'https://www.xhamster.com/' }, links: initials.videoTagsComponent.tags.map((e)=>({ name: e.name, link: e.url, img: e.thumbUrl, star: e.isPornstar, channel: e.isBrand || e.isChannel })), url: { 'auto': xplayer?.core?.sourceController?.hlsSource}, likes: initials?.videoEntity?.rating?.likes, views: initials?.videoEntity?.views, recommendedVideos: initials?.videoPageComponent?.relatedVideos?.videoTabInitialData?.videoListProps?.videoThumbProps?.slice(0,18).map(e=>({ title: e.title, thumbnailUrl: e.thumbURL, preview: e.trailerURL, src: e.pageURL, duration: new Date(e.duration * 1000).toISOString().substring(e.duration >= 3600 ? 11 : 14, 19) })), ready: true }) ))}catch(e){window.ReactNativeWebView.postMessage( JSON.stringify({ error: e.message }));}"
+    }
+  },
+  {
+    "id": "categories",
+    "label": "Categories",
+    "icon": "tags",
+    "type": "collections",
+    "props": {
+      "injection": "try{ window.ReactNativeWebView.postMessage(JSON.stringify( { list: window.location.hash==='' ? initials.pageStore.popular.trending.items.map((e)=>({ title: e.name, src: e.url, imgSrc: e.thumb })) : initials.pageStore.popular.assignable.find((f)=>f.id===window.location.hash.slice(1))?.items.map((e)=>({ title: e.name, src: e.url, imgSrc: e.thumb })) })); } catch(e) { window.ReactNativeWebView.postMessage(JSON.stringify( { error: 'Injection Error', message: e.message } )) }",
+      "tabs": [
+        {
+          "name": "Popular",
+          "src": "https://xhamster.com/categories"
+        },
+        {
+          "name": "Production",
+          "src": "https://xhamster.com/categories#production"
+        },
+        {
+          "name": "Actions",
+          "src": "https://xhamster.com/categories#actions"
+        },
+        {
+          "name": "Fetish",
+          "src": "https://xhamster.com/categories#fetish"
+        },
+        {
+          "name": "Age",
+          "src": "https://xhamster.com/categories#age"
+        },
+        {
+          "name": "Ethnicity",
+          "src": "https://xhamster.com/categories#ethnicity"
+        },
+        {
+          "name": "Body",
+          "src": "https://xhamster.com/categories#body"
+        },
+        {
+          "name": "Hair",
+          "src": "https://xhamster.com/categories#hair"
+        },
+        {
+          "name": "Number of people",
+          "src": "https://xhamster.com/categories#numberOfPeople"
+        },
+        {
+          "name": "Sex Toys",
+          "src": "https://xhamster.com/categories#sexToys"
+        },
+        {
+          "name": "Apparel",
+          "src": "https://xhamster.com/categories#apparel"
+        },
+        {
+          "name": "Scenario",
+          "src": "https://xhamster.com/categories#scenario"
+        },
+        {
+          "name": "Location",
+          "src": "https://xhamster.com/categories#location"
+        }
+      ],
+      "open": {
+        "type": "videos",
+        "label": "Category",
+        "links": [
+          "/categories/",
+          "/tags/"
+        ],
+        "tabs": [
+          {
+            "name": "Trending",
+            "src": "${src}/${page}"
+          },
+          {
+            "name": "Newest",
+            "src": "${src}/newest/${page}"
+          },
+          {
+            "name": "Best Videos",
+            "src": "${src}/best/${page}"
+          },
+          {
+            "name": "Most Viewed",
+            "src": "${src}/most-viewed/${page}"
+          },
+          {
+            "name": "Most Commented",
+            "src": "${src}/most-commented/${page}"
+          }
+        ],
+        "injection": "try{ window.ReactNativeWebView.postMessage(JSON.stringify( { headerDetails: {'Referer': 'https://xhamster.com/'}, lastPage: initials.layout.layoutBottomMobileProps.paginationProps.lastPageNumber, list: initials.layoutPage.trendingVideoListProps.videoThumbProps.slice(0,30).map(e=>({ title: e.title, thumbnailUrl: e.thumbURL, preview: e.trailerURL, src: e.pageURL, duration: new Date(e.duration * 1000).toISOString().substring(e.duration >= 3600 ? 11 : 14, 19) })) } )) } catch(e) { window.ReactNativeWebView.postMessage(JSON.stringify( { error: 'Star Videos Injection Error', message: e.message } )); }",
+        "videoInjection": "try{window.ReactNativeWebView.postMessage( JSON.stringify( ({ imageHeaders: { 'Referer': 'https://www.xhamster.com/' }, headers: { 'Referer': 'https://www.xhamster.com/' }, links: initials.videoTagsComponent.tags.map((e)=>({ name: e.name, link: e.url, img: e.thumbUrl, star: e.isPornstar, channel: e.isBrand || e.isChannel })), url: { 'auto': xplayer?.core?.sourceController?.hlsSource}, likes: initials?.videoEntity?.rating?.likes, views: initials?.videoEntity?.views, recommendedVideos: initials?.videoPageComponent?.relatedVideos?.videoTabInitialData?.videoListProps?.videoThumbProps?.slice(0,18).map(e=>({ title: e.title, thumbnailUrl: e.thumbURL, preview: e.trailerURL, src: e.pageURL, duration: new Date(e.duration * 1000).toISOString().substring(e.duration >= 3600 ? 11 : 14, 19) })), ready: true }) ))}catch(e){window.ReactNativeWebView.postMessage( JSON.stringify({ error: e.message }));}"
+      },
+      "imgAspectRatio": 1.7699115044247788
+    }
+  },
+  {
+    "id": "channels",
+    "label": "Channels",
+    "icon": "grip",
+    "type": "collections",
+    "props": {
+      "injection": "try{ window.ReactNativeWebView.postMessage(JSON.stringify( { lastPage: initials.layoutPage.paginationProps.lastPageNumber, list: initials.layoutPage.channels.map((c)=>({ tl: '#'+c.rating, imgSrc: c.siteLogoURL, title: c.channelName, src: c.channelURL, bl: c.videoCount })) }  )) } catch(e) { window.ReactNativeWebView.postMessage(JSON.stringify( { error: 'Injection Error', message: e.message } )) }",
+      "imgAspectRatio": 1,
+      "small": true,
+      "tabs": [
+        {
+          "name": "Popular",
+          "src": "https://xhamster.com/channels/${page}"
+        },
+        {
+          "name": "Updates",
+          "src": "https://xhamster.com/channels/all/updates/${page}"
+        }
+      ],
+      "open": {
+        "links": [
+          "/channels/"
+        ],
+        "type": "channelVideos",
+        "label": "Channel",
+        "tabs": [
+          {
+            "name": "Trending",
+            "src": "${src}/${page}"
+          },
+          {
+            "name": "Newest",
+            "src": "${src}/newest/${page}"
+          },
+          {
+            "name": "Best Videos",
+            "src": "${src}/best/${page}"
+          },
+          {
+            "name": "Most Viewed",
+            "src": "${src}/most-viewed/${page}"
+          },
+          {
+            "name": "Most Commented",
+            "src": "${src}/most-commented/${page}"
+          }
+        ],
+        "injection": "try{ window.ReactNativeWebView.postMessage(JSON.stringify( { imageHeaders: {'Referer': 'https://xhamster.com/'}, channelDetails: { views: document.querySelectorAll('.landing-info__metric > div')[2]?.textContent, videos: document.querySelectorAll('.landing-info__metric > div')[1]?.textContent, subscribers: document.querySelectorAll('.landing-info__metric > div')[0]?.textContent, rank: initials.layoutPage?.channelLandingInfoProps.sponsorChannel.rating, imgSrc: initials.layoutPage.channelLandingInfoProps.sponsorChannel.siteLogoURL, coverImgSrc: initials.layoutPage.channelLandingInfoProps.sponsorChannel.thumbURL }, lastPage: initials.layout.layoutBottomMobileProps.paginationProps.lastPageNumber, list: initials.layoutPage.trendingVideoListProps.videoThumbProps.slice(0,30).map(e=>({ title: e.title, thumbnailUrl: e.thumbURL, preview: e.trailerURL, src: e.pageURL, duration: new Date(e.duration * 1000).toISOString().substring(e.duration >= 3600 ? 11 : 14, 19) })) } )) } catch(e) { window.ReactNativeWebView.postMessage(JSON.stringify( { error: 'Star Videos Injection Error', message: e.message } )); }",
+        "videoInjection": "try{window.ReactNativeWebView.postMessage( JSON.stringify( ({ imageHeaders: { 'Referer': 'https://www.xhamster.com/' }, headers: { 'Referer': 'https://www.xhamster.com/' }, links: initials.videoTagsComponent.tags.map((e)=>({ name: e.name, link: e.url, img: e.thumbUrl, star: e.isPornstar, channel: e.isBrand || e.isChannel })), url: { 'auto': xplayer?.core?.sourceController?.hlsSource}, likes: initials?.videoEntity?.rating?.likes, views: initials?.videoEntity?.views, recommendedVideos: initials?.videoPageComponent?.relatedVideos?.videoTabInitialData?.videoListProps?.videoThumbProps?.slice(0,18).map(e=>({ title: e.title, thumbnailUrl: e.thumbURL, preview: e.trailerURL, src: e.pageURL, duration: new Date(e.duration * 1000).toISOString().substring(e.duration >= 3600 ? 11 : 14, 19) })), ready: true }) ))}catch(e){window.ReactNativeWebView.postMessage( JSON.stringify({ error: e.message }));}"
+      }
+    }
+  },
+  {
+    "id": "stars",
+    "label": "Pornstars",
+    "icon": "user",
+    "type": "collections",
+    "props": {
+      "injection": "try{ window.ReactNativeWebView.postMessage(JSON.stringify( { lastPage: initials.layoutPage.pornstarListProps.paginationProps.lastPageNumber, list: initials.layoutPage.pornstarListProps.pornstars.map((p)=>({ title: p.name, src: p.pageURL, imgSrc: p.imageThumbUrl, tl: '#'+ p.rating, bl: p.videoCount+' Videos' })) }  )) } catch(e) { window.ReactNativeWebView.postMessage(JSON.stringify( { error: 'Injection Error', message: e.message } )) }",
+      "tabs": [
+        {
+          "name": "Pornstars",
+          "src": "https://xhamster.com/pornstars/${page}"
+        },
+        {
+          "name": "Celebrities",
+          "src": "https://xhamster.com/celebrities/${page}"
+        },
+        {
+          "name": "Creators",
+          "src": "https://xhamster.com/creators/${page}"
+        }
+      ],
+      "open": {
+        "type": "starVideos",
+        "label": "Pornstar",
+        "links": [
+          "/pornstars/",
+          "/creators/",
+          "/celebrities/"
+        ],
+        "tabs": [
+          {
+            "name": "Trending",
+            "src": "${src}/${page}"
+          },
+          {
+            "name": "Newest",
+            "src": "${src}/newest/${page}"
+          },
+          {
+            "name": "Best Videos",
+            "src": "${src}/best/${page}"
+          },
+          {
+            "name": "Most Viewed",
+            "src": "${src}/most-viewed/${page}"
+          },
+          {
+            "name": "Most Commented",
+            "src": "${src}/most-commented/${page}"
+          }
+        ],
+        "injection": "try{ window.ReactNativeWebView.postMessage(JSON.stringify( { starImgSrc: initials?.infoComponent?.pornstarTop?.thumbUrl, headerDetails: {'Referer': 'https://www.xhamster.com/'}, starDetails: [ ['Rank', initials?.infoComponent?.pornstarTop?.rating], ['Views', document.querySelectorAll('.landing-info__metric > div')[2]?.textContent], ['Videos', document.querySelectorAll('.landing-info__metric > div')[1]?.textContent], ['Country', initials?.infoComponent?.pornstarTop?.translatedCountryName], ['Subscribers', document.querySelectorAll('.landing-info__metric > div')[0]?.textContent ]], lastPage: initials.layout.layoutBottomMobileProps.paginationProps.lastPageNumber, list: initials.trendingVideoSectionComponent.videoListProps.videoThumbProps.slice(0,30).map(e=>({ title: e.title, thumbnailUrl: e.thumbURL, preview: e.trailerURL, src: e.pageURL, duration: new Date(e.duration * 1000).toISOString().substring(e.duration >= 3600 ? 11 : 14, 19) }))  } )) } catch(e) { window.ReactNativeWebView.postMessage(JSON.stringify( { error: 'Star Videos Injection Error', message: e.message } )); }",
+        "videoInjection": "try{window.ReactNativeWebView.postMessage( JSON.stringify( ({ imageHeaders: { 'Referer': 'https://www.xhamster.com/' }, headers: { 'Referer': 'https://www.xhamster.com/' }, links: initials.videoTagsComponent.tags.map((e)=>({ name: e.name, link: e.url, img: e.thumbUrl, star: e.isPornstar, channel: e.isBrand || e.isChannel })), url: { 'auto': xplayer?.core?.sourceController?.hlsSource}, likes: initials?.videoEntity?.rating?.likes, views: initials?.videoEntity?.views, recommendedVideos: initials?.videoPageComponent?.relatedVideos?.videoTabInitialData?.videoListProps?.videoThumbProps?.slice(0,18).map(e=>({ title: e.title, thumbnailUrl: e.thumbURL, preview: e.trailerURL, src: e.pageURL, duration: new Date(e.duration * 1000).toISOString().substring(e.duration >= 3600 ? 11 : 14, 19) })), ready: true }) ))}catch(e){window.ReactNativeWebView.postMessage( JSON.stringify({ error: e.message }));}"
+      },
+      "imgAspectRatio": 1
+    }
+  }
+]
