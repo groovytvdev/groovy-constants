@@ -19,7 +19,7 @@
   ],
   "decodedWebsites": [
     {
-      "name": "XGROOVY",
+      "name": "Xgroovy",
       "navigateTo": "Home",
       "textColor": "#dd2700",
       "color": "#5a13ff",
@@ -28,7 +28,7 @@
       "requestForUI": 21
     },
     {
-      "name": "PORNHUB",
+      "name": "PornHub",
       "id": "pornhub",
       "plan": 2,
       "navigateTo": "FrameworkNavigationScreen",
@@ -39,7 +39,7 @@
       "requestForUI": 21
     },
     {
-      "name": "XHAMSTER",
+      "name": "Xhamster",
       "id": "xhamster",
       "plan": 2,
       "navigateTo": "FrameworkNavigationScreen",
@@ -48,14 +48,6 @@
       "adult": true,
       "likes": 10,
       "requestForUI": 21
-    },
-    {
-      "name": "Dressing Room",
-      "hidden": true,
-      "color": "#1c91ff",
-      "navigateTo": "DressingRoomHome",
-      "adult": true,
-      "plan": 2
     }
   ]
 }
