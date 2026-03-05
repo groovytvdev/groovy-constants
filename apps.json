@@ -1,5 +1,5 @@
 {
-  "freeTrial": true,
+  "trialExpiry": "2026-04-10T00:00:00Z",
   "movieApps": [
     {
       "name": "Netflix",
