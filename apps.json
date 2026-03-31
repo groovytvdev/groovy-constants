@@ -24,20 +24,16 @@
       "navigateTo": "Home",
       "textColor": "#dd2700",
       "color": "#5a13ff",
-      "adult": true,
-      "likes": 10,
-      "requestForUI": 21
+      "adult": true
     },
     {
       "name": "PornHub",
       "id": "pornhub",
-      "plan": 1,
+      "plan": 2,
       "navigateTo": "FrameworkNavigationScreen",
       "color": "#f99c28",
       "img": "https://images-r2-1.thebrag.com/tb/uploads/2020/03/Pornhub-768x435.jpg",
-      "adult": true,
-      "likes": 10,
-      "requestForUI": 21
+      "adult": true
     },
     {
       "name": "Xhamster",
@@ -46,9 +42,7 @@
       "navigateTo": "FrameworkNavigationScreen",
       "color": "#e34449",
       "img": "https://www.mediastorehouse.com/p/791/xhamster-logo-logo-47531981.jpg.webp",
-      "adult": true,
-      "likes": 10,
-      "requestForUI": 21
+      "adult": true
     }
   ]
 }
