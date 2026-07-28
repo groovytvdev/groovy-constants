@@ -71,7 +71,7 @@
     "icon": "tags",
     "type": "collections",
     "props": {
-      "injection": "try{ if(document.querySelectorAll('button.gtm-event-age-verification')[1]) document.querySelectorAll('button.gtm-event-age-verification')[1].click();window.ReactNativeWebView.postMessage(JSON.stringify( { list: [...document.querySelectorAll('.categoriesListSection')[1].querySelectorAll('li div.relativeWrapper')].map((d)=>({ src: d.querySelector('a.js-videoPreview')?.href.includes('?') ? d.querySelector('a.js-videoPreview')?.href:d.querySelector('a')?.href+'?', imgSrc: d.querySelector('img')?.src, title: d.querySelector('.categoryTitleWrapper strong')?.textContent, bl: d.querySelector('.videoCount > var').textContent+' Videos' })) })); } catch(e) { window.ReactNativeWebView.postMessage(JSON.stringify( { error: 'Injection Error', message: e.message } )) }",
+      "injection": "try{ if(document.querySelectorAll('button.gtm-event-age-verification')[1]) document.querySelectorAll('button.gtm-event-age-verification')[1].click();window.ReactNativeWebView.postMessage(JSON.stringify( { list: [...document.querySelectorAll('.categoriesListSection')[1].querySelectorAll('li div.relativeWrapper')].map((d)=>({ src: d.querySelector('a')?.href.includes('?') ? d.querySelector('a')?.href:d.querySelector('a')?.href+'?', imgSrc: d.querySelector('img')?.src, title: d.querySelector('.categoryTitleWrapper strong')?.textContent, bl: d.querySelector('.videoCount > var').textContent+' Videos' })) })); } catch(e) { window.ReactNativeWebView.postMessage(JSON.stringify( { error: 'Injection Error', message: e.message } )) }",
       "tabs": [
         {
           "name": "Categories",
