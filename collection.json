@@ -1,17 +1,1877 @@
 {
     "home": [
-        { "title": "MCU Infinity Saga", "list": [{ "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/9829/1369829-t-afacefff7a92", "tags": [{ "value": "2008" }, { "value": "U/A 13+" }, { "value": "2h 5m" }, { "value": "4 Languages" }, { "value": "Super Heroes" }], "description": "After surviving an unexpected attack in enemy territory, jet-setting industrialist Tony Stark builds a high-tech suit of armor and vows to protect the world.", "id": "1660000038" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/2880/1714634712880-t", "tags": [{ "value": "2008" }, { "value": "U/A 16+" }, { "value": "1h 52m" }, { "value": "English" }, { "value": "Super Heroes" }], "description": "Bruce Banner faces a nightmarish enemy after he is forced out of hiding.", "id": "1000046231" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/9090/809090-t", "tags": [{ "value": "2010" }, { "value": "U/A 13+" }, { "value": "2h 4m" }, { "value": "4 Languages" }, { "value": "Super Heroes" }], "description": "Tony Stark is under pressure from various sources, to share his technology with the world. And, he needs to find a way to deal with his enemies.", "id": "1660000039" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/9169/809169-t", "tags": [{ "value": "2011" }, { "value": "U/A 13+" }, { "value": "1h 54m" }, { "value": "4 Languages" }, { "value": "Super Heroes" }], "description": "The powerful, but arrogant god Thor, is cast out of Asgard to live amongst humans on Earth, where he soon becomes one of their finest defenders.", "id": "1660000044" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/8064/1368064-t-8c2ddf7c1366", "tags": [{ "value": "2011" }, { "value": "U/A 13+" }, { "value": "2h 4m" }, { "value": "4 Languages" }, { "value": "Super Heroes" }], "description": "After being deemed unfit for military service, Steve Rogers volunteers for a top secret research project that turns him into Captain America.", "id": "1660000034" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/52/1370052-t-c192aeeb4c31", "tags": [{ "value": "2012" }, { "value": "U/A 13+" }, { "value": "2h 22m" }, { "value": "4 Languages" }, { "value": "Super Heroes" }], "description": "Nick Fury recruits a team of heroes to battle an unexpected enemy.", "id": "1660000015" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/40/1370040-t-790936721d41", "tags": [{ "value": "2013" }, { "value": "U/A 13+" }, { "value": "2h 10m" }, { "value": "4 Languages" }, { "value": "Super Heroes" }], "description": "When Tony Stark/Iron Man finds his world reduced to rubble, one question haunts him: Does the man make the suit, or does the suit make the man?", "id": "1660000042" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/110/1370110-t-afc38768f488", "tags": [{ "value": "2013" }, { "value": "U/A 13+" }, { "value": "1h 52m" }, { "value": "4 Languages" }, { "value": "Super Heroes" }], "description": "Thor fights to restore order across the cosmos...but an ancient race led by the vengeful Malekith returns to plunge the universe back into darkness.", "id": "1260018142" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/7957/1407957-t-9256070ab6cb", "tags": [{ "value": "2014" }, { "value": "U/A 13+" }, { "value": "2h 15m" }, { "value": "4 Languages" }, { "value": "Super Heroes" }], "description": "Steve Rogers teams up with Natasha Romanoff, aka Black Widow, to battle a powerful yet shadowy enemy in present-day Washington, D.C.", "id": "1260016410" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/3557/1373557-t-f95559d60d82", "tags": [{ "value": "2014" }, { "value": "U/A 13+" }, { "value": "2h" }, { "value": "4 Languages" }, { "value": "Super Heroes" }], "description": "Brash adventurer Peter Quill finds himself the object of an unrelenting bounty hunt after stealing a mysterious orb coveted by a powerful villain.", "id": "1260018294" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/2746/1372746-t-9e3930b7f230", "tags": [{ "value": "2015" }, { "value": "U/A 13+" }, { "value": "2h 21m" }, { "value": "4 Languages" }, { "value": "Super Heroes" }], "description": "Tony Stark builds an AI system named Ultron, and when things go wrong, it's up to Earth's mightiest heroes to stop the villain from enacting his terrible plan.", "id": "1260018315" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/9397/1369397-t-60c8791dcda7", "tags": [{ "value": "2015" }, { "value": "U/A 13+" }, { "value": "1h 57m" }, { "value": "4 Languages" }, { "value": "Super Heroes" }], "description": "Cat burglar Scott Lang must embrace his inner-hero and help his mentor, Dr. Hank Pym, plan and pull off a heist that will save the world.", "id": "1260018141" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/1135/1371135-t-10cd54d4d96f", "tags": [{ "value": "2016" }, { "value": "U/A 13+" }, { "value": "2h 27m" }, { "value": "4 Languages" }, { "value": "Super Heroes" }], "description": "The government's decision to push a Hero Registration Act to regulate heroes creates a rift among the Avengers and other heroes.", "id": "1260016768" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/1175/1371175-t-00259386fecd", "tags": [{ "value": "2016" }, { "value": "U/A 13+" }, { "value": "1h 54m" }, { "value": "4 Languages" }, { "value": "Super Heroes" }], "description": "Dr. Strange faces a difficult choice of whether to return to his life of luxury or to protect the world as the most powerful sorcerer in existence.", "id": "1260018179" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/1181/1371181-t-4ff1ddf2ed06", "tags": [{ "value": "2017" }, { "value": "U/A 13+" }, { "value": "2h 15m" }, { "value": "4 Languages" }, { "value": "Super Heroes" }], "description": "Marvel Studios' Guardians of the Galaxy Vol. 2 continues the team's adventures as they unravel the mystery of Star-Lord's parentage.", "id": "1260018295" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/1291/1371291-t-dce6933289e0", "tags": [{ "value": "2017" }, { "value": "U/A 13+" }, { "value": "2h 10m" }, { "value": "4 Languages" }, { "value": "Super Heroes" }], "description": "Deprived of his mighty hammer Mjolnir, Thor must escape the other side of the universe to save his home, Asgard, from Hela, the goddess of death.", "id": "1660010577" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/635/1410635-t-847283699e19", "tags": [{ "value": "2018" }, { "value": "U/A 13+" }, { "value": "2h 14m" }, { "value": "4 Languages" }, { "value": "Super Heroes" }], "description": "T'Challa, heir to the hidden kingdom of Wakanda, must lead his people into a new future and confront a challenger from his country's past.", "id": "1660010672" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/4910/1374910-t-c524f5224090", "tags": [{ "value": "2018" }, { "value": "U/A 13+" }, { "value": "2h 29m" }, { "value": "4 Languages" }, { "value": "Super Heroes" }], "description": "With the powerful Thanos on the verge of raining destruction upon the universe, the Avengers risk everything in the ultimate showdown of all time.", "id": "1660010677" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/1319/1371319-t-ace967ea8678", "tags": [{ "value": "2018" }, { "value": "U/A 13+" }, { "value": "1h 59m" }, { "value": "4 Languages" }, { "value": "Super Heroes" }], "description": "Accompanied by Hope van Dyne and Dr. Hank Pym, Scott Lang must once again don the Ant-Man suit and fight alongside the Wasp.", "id": "1660010696" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/6803/1366803-t-83b9adb667f9", "tags": [{ "value": "2019" }, { "value": "U/A 13+" }, { "value": "2h 4m" }, { "value": "4 Languages" }, { "value": "Super Heroes" }], "description": "Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races.", "id": "1260014878" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/6722/1366722-t-48964025ccfe", "tags": [{ "value": "2019" }, { "value": "U/A 13+" }, { "value": "3h 1m" }, { "value": "4 Languages" }, { "value": "Super Heroes" }], "description": "After the devastating events of the Infinity War, the Avengers assemble once more to reverse Thanos' actions and restore balance to the universe.", "id": "1260013556" }] },
-        { "title": "DC Movies", "list": [{ "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/7891/1774421287891-t", "tags": [{ "value": "2022" }, { "value": "U/A 16+" }, { "value": "2h 56m" }, { "value": "4 Languages" }, { "value": "Action" }], "description": "More than a year of stalking the streets as the Batman, has led Bruce Wayne deep into the shadows of Gotham City.", "id": "1271608356" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/2552/1776245822552-t", "tags": [{ "value": "2017" }, { "value": "U/A 13+" }, { "value": "1h 55m" }, { "value": "4 Languages" }, { "value": "Super Heroes" }], "description": "Fueled by his restored faith in humanity, Bruce Wayne, along with Wonder Woman, set out in search of a special team to defend the planet from a threat.", "id": "1971011083" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/7347/1776191547347-t", "tags": [{ "value": "2012" }, { "value": "U/A 13+" }, { "value": "2h 37m" }, { "value": "4 Languages" }, { "value": "Super Heroes" }], "description": "Eight years after the Joker, Bane terrorizes Gotham. Batman is forced from exile, aided by Selina Kyle, to stop him.", "id": "1971000392" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/2551/1776245162551-t", "tags": [{ "value": "2013" }, { "value": "U/A 13+" }, { "value": "2h 17m" }, { "value": "4 Languages" }, { "value": "Super Heroes" }], "description": "Born with powers and not of this Earth, a young man sets out to find his past. However, to save the world, he must embrace his destiny as a symbol of hope.", "id": "1971000604" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/2931/1776245772931-t", "tags": [{ "value": "2016" }, { "value": "U/A 13+" }, { "value": "2h 25m" }, { "value": "4 Languages" }, { "value": "Super Heroes" }], "description": "Fearing that the actions of Superman are left unchecked, Batman takes on the Man of Steel, while the world wrestles with what kind of a hero it really needs.", "id": "1971000397" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/8341/1776246718341-t", "tags": [{ "value": "2018" }, { "value": "U/A 13+" }, { "value": "2h 23m" }, { "value": "4 Languages" }, { "value": "Super Heroes" }], "description": "Arthur Curry, the human-born heir to the underwater kingdom of Atlantis, goes on a quest to prevent a war between the worlds of ocean and land.", "id": "1971001981" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/9330/1774421109330-t", "tags": [{ "value": "2023" }, { "value": "U/A 13+" }, { "value": "2h 10m" }, { "value": "4 Languages" }, { "value": "Action" }], "description": "Continues the story of teenage Billy Batson who, upon reciting the magic word SHAZAM!, is transformed into his adult Super Hero alter ego, Shazam.", "id": "1271608354" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/7672/1776264137672-t", "tags": [{ "value": "2019" }, { "value": "U/A 13+" }, { "value": "2h 6m" }, { "value": "4 Languages" }, { "value": "Super Heroes" }], "description": "Shazam! transforms teen Billy into a superhero. He confronts evil, mastering his new powers.", "id": "1971000580" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/2205/1776264032205-t", "tags": [{ "value": "2006" }, { "value": "U/A 13+" }, { "value": "2h 27m" }, { "value": "4 Languages" }, { "value": "Super Heroes" }], "description": "From the depths of the ocean to the far reaches of outer space, Superman blazes an epic journey to protect the world he loves from cataclysmic destruction.", "id": "1971000526" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/7343/1774440007343-t", "tags": [{ "value": "2021" }, { "value": "U/A 16+" }, { "value": "4h 2m" }, { "value": "English" }, { "value": "Science Fiction" }], "description": "Zack Snyder's exclusive director's cut finds Batman, Wonder Woman, Aquaman, Cyborg and The Flash protecting the planet.", "id": "1271613872" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/178/1776193030178-t", "tags": [{ "value": "2005" }, { "value": "U/A 13+" }, { "value": "2h 14m" }, { "value": "2 Languages" }, { "value": "Super Heroes" }], "description": "With the help of rising cop Jim Gordon, Batman sets out to take down the various nefarious schemes in motion in Gotham City!", "id": "1971000399" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/7505/1776264587505-t", "tags": [{ "value": "2017" }, { "value": "U/A 13+" }, { "value": "2h 15m" }, { "value": "English" }, { "value": "Science Fiction" }], "description": "A pilot's crash reveals a world at war. Young Amazon Diana, defying her training, embarks on a journey, discovering her powers and purpose.", "id": "1971000396" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/2776/1776263582776-t", "tags": [{ "value": "2019" }, { "value": "A" }, { "value": "1h 56m" }, { "value": "English" }, { "value": "Thriller" }], "description": "Bullied and alone, Arthur Fleck becomes the Joker.", "id": "1971000402" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/5873/1776263905873-t", "tags": [{ "value": "2020" }, { "value": "U/A 16+" }, { "value": "1h 44m" }, { "value": "2 Languages" }, { "value": "Comedy" }], "description": "After splitting with the Joker, Harley Quinn joins superheroines Black Canary, Huntress, and Renee Montoya to save a young girl from an evil crime lord.", "id": "1971000529" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/4062/1776264094062-t", "tags": [{ "value": "2016" }, { "value": "U/A 16+" }, { "value": "1h 57m" }, { "value": "English" }, { "value": "Adventure" }], "description": "World-ending threat? A covert agency unleashes the most dangerous convictsÑsupervillainsÑto defend humanity. Their first mission: survival.", "id": "1971000590" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/4452/1776264544452-t", "tags": [{ "value": "2020" }, { "value": "U/A 13+" }, { "value": "2h 24m" }, { "value": "English" }, { "value": "Adventure" }], "description": "Wonder Woman faces a double threat: the cunning Maxwell Lord and her former friend, Barbara Minerva. Can she conquer them both while reuniting with her love?", "id": "1971000394" }] },
-        { "title": "Netflix Popular Shows", "list": [{"tags":[{"value":"2025"},{"value":"5 Seasons"},{"value":"U/A 16+"},{"value":"Sci-Fi"}],"description":"When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces and one strange little girl.","nameLogo":"https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABWRb9fOoyNFcmxknSU10VpQNTr6iZp2M7sB5ahMjDFpCYvtZdytMefjW3aKWj-bz-pkK2mSnB8KL4G8xEKpEpEw5VfzSgrUELg.webp?r=347","id":"80057281", "ott": "nf"}, {"tags":[{"value":"2026"},{"value":"2 Seasons"},{"value":"U/A 16+"},{"value":"Action"}],"description":"With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure in this live-action adaptation of the popular manga.","nameLogo":"https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABV3CEs2r_UGJZJscNPmBD38aTViNCqvDjsedhftHTbrYfE4Gv9vqQBHJb452mdMIfiwUyk03tojw0Eb8LAapVP7oGcwGS7245w.webp?r=5c2","id":"80217863", "ott": "nf"}, {"tags":[{"value":"2025"},{"value":"2 Seasons"},{"value":"U/A 16+"},{"value":"Fantasy"}],"description":"Smart, sarcastic and a little dead inside, Wednesday Addams investigates twisted mysteries while making new friends — and foes — at Nevermore Academy.","nameLogo":"https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABXG5gmlIhSDh9F5SdDQdBne7h4_X54BQqzS_bAwMmlgTD9uZTKR9pEl7h7UkRvMhwJ0_HwqYNaKLXgBh2g5sxbWzIp3Tn597sA.webp?r=d59","id":"81231974","ott":"nf"} ] },
-        { "title": "HBO Max Originals", "list": [{ "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/2933/1776193522933-t", "tags": [{ "value": "2019" }, { "value": "A" }, { "value": "8 Seasons" }, { "value": "5 Languages" }, { "value": "Fantasy" }], "description": "In the fantasy world of Westeros, the Stark family, Wardens of the North, face a web of intrigue and danger.", "id": "1971002880" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/2429/1776196342429-t", "tags": [{ "value": "2023" }, { "value": "A" }, { "value": "4 Seasons" }, { "value": "5 Languages" }, { "value": "Drama" }], "description": "When their father steps down, the Logan family's control over their global entertainment empire is threatened.", "id": "1971002875" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/4270/1776196744270-t", "tags": [{ "value": "2025" }, { "value": "A" }, { "value": "2 Seasons" }, { "value": "5 Languages" }, { "value": "Science Fiction" }], "description": "After a global pandemic destroys civilization, a hardened survivor takes charge of a 14-year-old girl who may be humanity's last hope.", "id": "1971002868" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/6260/1776194236260-t", "tags": [{ "value": "2024" }, { "value": "A" }, { "value": "4 Seasons" }, { "value": "5 Languages" }, { "value": "Drama" }], "description": "Alaska's winter hides a secret. Detectives uncover a mystery, battling inner demons.", "id": "1971002860" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/2977/1776243342977-t", "tags": [{ "value": "2019" }, { "value": "U/A 16+" }, { "value": "1 Season" }, { "value": "5 Languages" }, { "value": "Drama" }], "description": "April 1986: A nuclear power plant explodes at Chernobyl, USSR, resulting in one of history's worst man-made catastrophes.", "id": "1971002867" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/6435/1782090666435-t", "tags": [{ "value": "2026" }, { "value": "A" }, { "value": "3 Seasons" }, { "value": "4 Languages" }, { "value": "Fantasy" }], "description": "Set 200 years before the events of Game of Thrones, this epic series tells the story of House Targaryen.", "id": "1971002877" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/2949/1776194942949-t", "tags": [{ "value": "2024" }, { "value": "A" }, { "value": "1 Season" }, { "value": "7 Languages" }, { "value": "Drama" }], "description": "Colin Farrell returns as The Penguin in DC Studios' The Penguin, continuing Matt Reeves' The Batman universe.", "id": "1971003606" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/1731/1776196471731-t", "tags": [{ "value": "2007" }, { "value": "A" }, { "value": "6 Seasons" }, { "value": "English" }, { "value": "Crime" }], "description": "Tony Soprano, a New Jersey mob boss, struggles with the pressures of his life, leading him to seek therapy.", "id": "1971002996" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/4282/1776260494282-t", "tags": [{ "value": "2008" }, { "value": "A" }, { "value": "5 Seasons" }, { "value": "English" }, { "value": "Drama" }], "description": "The Baltimore drug scene, as seen through the eyes of drug dealers and law enforcement.", "id": "1971003018" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/9421/1776195059421-t", "tags": [{ "value": "2004" }, { "value": "A" }, { "value": "6 Seasons" }, { "value": "English" }, { "value": "Drama" }], "description": "Four female New Yorkers gossip about their sex lives (or lack thereof) and find new ways to deal with being a woman in the late 1990s.", "id": "1971003029" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/9460/1776244679460-t", "tags": [{ "value": "2001" }, { "value": "A" }, { "value": "1 Season" }, { "value": "English" }, { "value": "Action" }], "description": "The story of Easy Company of the U.S. Army 101st Airborne Division and their mission in World War II Europe, from Operation Overlord to V-J Day.", "id": "1971003127" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/6475/1776196696475-t", "tags": [{ "value": "2025" }, { "value": "A" }, { "value": "3 Seasons" }, { "value": "English" }, { "value": "Drama" }], "description": "Luxury resort. Privileged guests. Hidden darkness.", "id": "1971002873" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/7023/1776260637023-t", "tags": [{ "value": "2019" }, { "value": "A" }, { "value": "6 Seasons" }, { "value": "English" }, { "value": "Comedy" }], "description": "In Silicon Valley, Richard's Pied Piper app seeks investors. He faces fierce competition from five rival programmers vying for their place.", "id": "1971002879" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/4113/1776193714113-t", "tags": [{ "value": "2011" }, { "value": "A" }, { "value": "8 Seasons" }, { "value": "English" }, { "value": "Comedy" }], "description": "Fame and fortune follow Vince, Eric, Turtle, and Johnny. Their lavish lifestyle is tested by Ari's relentless demands.", "id": "1971002903" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/3615/1776193663615-t", "tags": [{ "value": "2026" }, { "value": "A" }, { "value": "4 Seasons" }, { "value": "English" }, { "value": "Drama" }], "description": "An ambitious group of twentysomethings compete for permanent positions at Pierpoint & Co, one of London’s preeminent investment banks.", "id": "1971003016" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/5056/1776320445056-t", "tags": [{ "value": "2017" }, { "value": "A" }, { "value": "3 Seasons" }, { "value": "English" }, { "value": "Drama" }], "description": "A vanished population leaves a New York community grappling with the mystery of their loss and a changed world.", "id": "1971002998" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/7713/1776402937713-t", "tags": [{ "value": "2021" }, { "value": "A" }, { "value": "5 Seasons" }, { "value": "English" }, { "value": "Drama" }], "description": "Follows the awkward experiences and racy tribulations of a modern-day African-American woman.", "id": "1971003019" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/2183/1776260542183-t", "tags": [{ "value": "2021" }, { "value": "A" }, { "value": "1 Season" }, { "value": "English" }, { "value": "Drama" }], "description": "A detective in a small Pennsylvania town investigates a local murder while trying to keep her life from falling apart.", "id": "1971002858" }] },
-        { "title": "Harry Potter Movies", "list": [{ "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/8268/1776192198268-t", "tags": [{ "value": "2001" }, { "value": "U/A 13+" }, { "value": "2h 26m" }, { "value": "3 Languages" }, { "value": "Fantasy" }], "description": "An orphaned boy enrols in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world.", "id": "1971000398" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/8889/1776316518889-t", "tags": [{ "value": "2002" }, { "value": "U/A 13+" }, { "value": "2h 34m" }, { "value": "4 Languages" }, { "value": "Fantasy" }], "description": "Harry ignores warnings not to return to Hogwarts, only to find the school plagued by a series of mysterious attacks and a strange voice haunting him.", "id": "1971000409" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/4160/1776317384160-t", "tags": [{ "value": "2004" }, { "value": "U/A 13+" }, { "value": "2h 15m" }, { "value": "4 Languages" }, { "value": "Fantasy" }], "description": "Harry, Ron and Hermione return as teenagers for a third term at Hogwarts. But Harry's fate looks bleak when the infamous Sirius Black escapes from prison.", "id": "1971000405" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/5762/1776317875762-t", "tags": [{ "value": "2005" }, { "value": "U/A 13+" }, { "value": "2h 30m" }, { "value": "4 Languages" }, { "value": "Fantasy" }], "description": "This term, a competition will be held between three schools of wizardry, and contestants will be magically chosen for the very dangerous event.", "id": "1971000404" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/8203/1776318188203-t", "tags": [{ "value": "2007" }, { "value": "U/A 13+" }, { "value": "2h 12m" }, { "value": "4 Languages" }, { "value": "Fantasy" }], "description": "Harry and Dumbledore's warning of Voldemort's return is ignored. Now, they face persecution as a power-hungry bureaucrat takes control of Hogwarts.", "id": "1971000408" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/6228/1776192186228-t", "tags": [{ "value": "2009" }, { "value": "U/A 13+" }, { "value": "2h 27m" }, { "value": "4 Languages" }, { "value": "Fantasy" }], "description": "While Death Eaters emboldened by the return of Lord Voldemort wreak havoc in both the Muggle and Wizarding worlds, Harry suspects new dangers within Hogwarts.", "id": "1971000403" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/7160/1776318407160-t", "tags": [{ "value": "2010" }, { "value": "U/A 13+" }, { "value": "2h 20m" }, { "value": "4 Languages" }, { "value": "Fantasy" }], "description": "Harry, Ron, and Hermione's quest to destroy Horcruxes leads them to a shocking discovery: the legendary Deathly Hallows.", "id": "1971000406" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/3313/1776318793313-t", "tags": [{ "value": "2011" }, { "value": "U/A 13+" }, { "value": "2h 5m" }, { "value": "4 Languages" }, { "value": "Fantasy" }], "description": "Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.", "id": "1971000407" }] },
-        { "title": "Transformers Hub", "list": [{ "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/3547/1739503073547-t", "tags": [{ "value": "2007" }, { "value": "U/A 13+" }, { "value": "2h 17m" }, { "value": "4 Languages" }, { "value": "Action" }], "description": "When the epic struggle between the heroic Autobots and the evil Decepticons comes to Earth, Sam Witwicky becomes mankind's last chance for survival.", "id": "1971001504" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/1668/1734086961668-t", "tags": [{ "value": "2009" }, { "value": "U/A 13+" }, { "value": "2h 23m" }, { "value": "4 Languages" }, { "value": "Action" }], "description": "Sam Witwicky's college plans shatter when he discovers the Transformers' history, thrusting him into an epic battle for Earth's fate.", "id": "1971001334" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/769/1734609160769-t", "tags": [{ "value": "2011" }, { "value": "U/A 13+" }, { "value": "2h 28m" }, { "value": "4 Languages" }, { "value": "Action" }], "description": "Earth's hidden secrets threaten the Autobots. Sam Witwicky leads the fight against Decepticon schemes. Can they save the planet?", "id": "1971001500" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/1639/1734087011639-t", "tags": [{ "value": "2014" }, { "value": "U/A 13+" }, { "value": "2h 38m" }, { "value": "4 Languages" }, { "value": "Action" }], "description": "With humanity facing extinction from a new threat, it's up to the Autobots to save Earth. They'll need new allies, including inventor Cade and the Dinobots!", "id": "1971001501" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/3212/1734086803212-t", "tags": [{ "value": "2017" }, { "value": "U/A 13+" }, { "value": "2h 28m" }, { "value": "4 Languages" }, { "value": "Action" }], "description": "Optimus Prime launches a mission to save Cybertron by destroying Earth. Now, Bumblebee and Cade must lead the Autobots in the ultimate battle to save mankind.", "id": "1971001487" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/296/1734090740296-t", "tags": [{ "value": "2018" }, { "value": "U/A 13+" }, { "value": "1h 49m" }, { "value": "4 Languages" }, { "value": "Action" }], "description": "Charlie finds a wounded Bumblebee and heals him. When Bumblebee remembers his mission, will Charlie join him on his dangerous journey?", "id": "1971001354" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/1365/1743158371365-t", "tags": [{ "value": "2023" }, { "value": "U/A 13+" }, { "value": "2h 7m" }, { "value": "4 Languages" }, { "value": "Action" }], "description": "The Autobots team up with a powerful faction of Transformers known as the Maximals to save Earth.", "id": "1271403121" }] },
-        { "title": "Pirates of the Caribbean", "list": [{"nameLogo":"https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4280/1374280-t-4195a0ffe804","title":"Pirates Of The Caribbean: The Curse Of The Black Pearl","id":"1660010115","description":"When Captain Barbossa kidnaps the Governer's daughter and her would-be suitor, Will Turner, coerces Captain Jack Sparrow into rescuing her.","tags":[{"value":"2003"},{"value":"U/A 13+"},{"value":"2h 23m"},{"value":"4 Languages"},{"value":"Action"}]},{"nameLogo":"https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7064/1417064-t-30b2ba47fc95","title":"Pirates Of The Caribbean: Dead Man's Chest","id":"1660000012","description":"Captain Jack Sparrow with Will and Elizabeth sets out to find the heart of Davy Jones and repay his debts.","tags":[{"value":"2006"},{"value":"U/A 13+"},{"value":"2h 30m"},{"value":"4 Languages"},{"value":"Action"}]},{"nameLogo":"https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1217/1541217-t-c8765a98cb05","title":"Pirates Of The Caribbean: At World's End","id":"1660000055","description":"Captain Barbossa and others must sail off the edge of the map, to find Jack Sparrow to fight against the East India Company.","tags":[{"value":"2007"},{"value":"U/A 13+"},{"value":"2h 48m"},{"value":"4 Languages"},{"value":"Action"}]},{"nameLogo":"https://img10.hotstar.com/image/upload/f_auto,h_156/sources/r1/cms/prod/9094/809094-t","title":"Pirates Of The Caribbean: On Stranger Tides","id":"1260018338","description":"Captain Jack Sparrow journeys to the fabled Fountain of Youth when a woman from his past forces him to board the ship of his nemesis Blackbeard.","tags":[{"value":"2011"},{"value":"U/A 13+"},{"value":"2h 16m"},{"value":"4 Languages"},{"value":"Action"}]},{"nameLogo":"https://img10.hotstar.com/image/upload/f_auto,h_156/sources/r1/cms/prod/1138/1371138-t-b91786ea2bca","title":"Pirates of the Caribbean - Salazar's Revenge","id":"1260018339","description":"Captain Jack Sparrow senses the winds of ill-fortune when his nemesis Captain Salazar escapes from the Devil's Triangle, to kill every pirate at sea.","tags":[{"value":"2017"},{"value":"U/A 13+"},{"value":"2h 9m"},{"value":"4 Languages"},{"value":"Action"}]}] }
+        {
+            "title": "Marvel Origin Stories",
+            "list": [
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9829/1369829-t-afacefff7a92",
+                    "title": "Iron Man",
+                    "id": "1660000038",
+                    "description": "After surviving an unexpected attack in enemy territory, jet-setting industrialist Tony Stark builds a high-tech suit of armor and vows to protect the world.",
+                    "tags": [
+                        "2008",
+                        "U/A 13+",
+                        "2h 5m",
+                        "4 Languages",
+                        "Super Heroes"
+                    ]
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_156/sources/r1/cms/prod/9169/809169-t",
+                    "title": "Thor",
+                    "id": "1660000044",
+                    "description": "The powerful, but arrogant god Thor, is cast out of Asgard to live amongst humans on Earth, where he soon becomes one of their finest defenders.",
+                    "tags": [
+                        "2011",
+                        "U/A 13+",
+                        "1h 54m",
+                        "4 Languages",
+                        "Super Heroes"
+                    ]
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1175/1371175-t-00259386fecd",
+                    "title": "Doctor Strange",
+                    "id": "1260018179",
+                    "description": "Dr. Strange faces a difficult choice of whether to return to his life of luxury or to protect the world as the most powerful sorcerer in existence.",
+                    "tags": [
+                        "2016",
+                        "U/A 13+",
+                        "1h 54m",
+                        "4 Languages",
+                        "Super Heroes"
+                    ]
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7520/1417520-t-4197a648dfff",
+                    "title": "Moon Knight",
+                    "id": "1260089681",
+                    "description": "Mild-mannered Steven Grant has dissociative identity disorder and shares a body with a mercenary.",
+                    "tags": [
+                        "2022",
+                        "U/A 16+",
+                        "1 Season",
+                        "5 Languages",
+                        "Action"
+                    ]
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/635/1410635-t-847283699e19",
+                    "title": "Black Panther",
+                    "id": "1660010672",
+                    "description": "T'Challa, heir to the hidden kingdom of Wakanda, must lead his people into a new future and confront a challenger from his country's past.",
+                    "tags": [
+                        "2018",
+                        "U/A 13+",
+                        "2h 14m",
+                        "4 Languages",
+                        "Super Heroes"
+                    ]
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9504/1369504-t-da369ee3a5d9",
+                    "title": "Eternals",
+                    "id": "1260077949",
+                    "description": "The saga of the Eternals, a race of immortal beings who lived on Earth and shaped its history, and civilizations",
+                    "tags": [
+                        "2021",
+                        "U/A 13+",
+                        "2h 35m",
+                        "6 Languages",
+                        "Super Heroes"
+                    ]
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_156/sources/r1/cms/prod/6803/1366803-t-83b9adb667f9",
+                    "title": "Captain Marvel",
+                    "id": "1260014878",
+                    "description": "Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races.",
+                    "tags": [
+                        "2019",
+                        "U/A 13+",
+                        "2h 4m",
+                        "4 Languages",
+                        "Super Heroes"
+                    ]
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_156/sources/r1/cms/prod/3934/1413934-t-3b914995f51e",
+                    "title": "Ms. Marvel",
+                    "id": "1260098459",
+                    "description": "Kamala Khan, a Muslim American teen growing up in Jersey City, is a Superhero mega fan who discovers she has super powers.",
+                    "tags": [
+                        "2022",
+                        "U/A 13+",
+                        "1 Season",
+                        "5 Languages",
+                        "Action"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "DC Movies",
+            "list": [
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/7891/1774421287891-t",
+                    "tags": [
+                        "2022",
+                        "U/A 16+",
+                        "2h 56m",
+                        "4 Languages",
+                        "Action"
+                    ],
+                    "description": "More than a year of stalking the streets as the Batman, has led Bruce Wayne deep into the shadows of Gotham City.",
+                    "id": "1271608356"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/2552/1776245822552-t",
+                    "tags": [
+                        "2017",
+                        "U/A 13+",
+                        "1h 55m",
+                        "4 Languages",
+                        "Super Heroes"
+                    ],
+                    "description": "Fueled by his restored faith in humanity, Bruce Wayne, along with Wonder Woman, set out in search of a special team to defend the planet from a threat.",
+                    "id": "1971011083"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/7347/1776191547347-t",
+                    "tags": [
+                        "2012",
+                        "U/A 13+",
+                        "2h 37m",
+                        "4 Languages",
+                        "Super Heroes"
+                    ],
+                    "description": "Eight years after the Joker, Bane terrorizes Gotham. Batman is forced from exile, aided by Selina Kyle, to stop him.",
+                    "id": "1971000392"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/2551/1776245162551-t",
+                    "tags": [
+                        "2013",
+                        "U/A 13+",
+                        "2h 17m",
+                        "4 Languages",
+                        "Super Heroes"
+                    ],
+                    "description": "Born with powers and not of this Earth, a young man sets out to find his past. However, to save the world, he must embrace his destiny as a symbol of hope.",
+                    "id": "1971000604"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/2931/1776245772931-t",
+                    "tags": [
+                        "2016",
+                        "U/A 13+",
+                        "2h 25m",
+                        "4 Languages",
+                        "Super Heroes"
+                    ],
+                    "description": "Fearing that the actions of Superman are left unchecked, Batman takes on the Man of Steel, while the world wrestles with what kind of a hero it really needs.",
+                    "id": "1971000397"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/8341/1776246718341-t",
+                    "tags": [
+                        "2018",
+                        "U/A 13+",
+                        "2h 23m",
+                        "4 Languages",
+                        "Super Heroes"
+                    ],
+                    "description": "Arthur Curry, the human-born heir to the underwater kingdom of Atlantis, goes on a quest to prevent a war between the worlds of ocean and land.",
+                    "id": "1971001981"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/9330/1774421109330-t",
+                    "tags": [
+                        "2023",
+                        "U/A 13+",
+                        "2h 10m",
+                        "4 Languages",
+                        "Action"
+                    ],
+                    "description": "Continues the story of teenage Billy Batson who, upon reciting the magic word SHAZAM!, is transformed into his adult Super Hero alter ego, Shazam.",
+                    "id": "1271608354"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/7672/1776264137672-t",
+                    "tags": [
+                        "2019",
+                        "U/A 13+",
+                        "2h 6m",
+                        "4 Languages",
+                        "Super Heroes"
+                    ],
+                    "description": "Shazam! transforms teen Billy into a superhero. He confronts evil, mastering his new powers.",
+                    "id": "1971000580"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/2205/1776264032205-t",
+                    "tags": [
+                        "2006",
+                        "U/A 13+",
+                        "2h 27m",
+                        "4 Languages",
+                        "Super Heroes"
+                    ],
+                    "description": "From the depths of the ocean to the far reaches of outer space, Superman blazes an epic journey to protect the world he loves from cataclysmic destruction.",
+                    "id": "1971000526"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/7343/1774440007343-t",
+                    "tags": [
+                        "2021",
+                        "U/A 16+",
+                        "4h 2m",
+                        "English",
+                        "Science Fiction"
+                    ],
+                    "description": "Zack Snyder's exclusive director's cut finds Batman, Wonder Woman, Aquaman, Cyborg and The Flash protecting the planet.",
+                    "id": "1271613872"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/178/1776193030178-t",
+                    "tags": [
+                        "2005",
+                        "U/A 13+",
+                        "2h 14m",
+                        "2 Languages",
+                        "Super Heroes"
+                    ],
+                    "description": "With the help of rising cop Jim Gordon, Batman sets out to take down the various nefarious schemes in motion in Gotham City!",
+                    "id": "1971000399"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/7505/1776264587505-t",
+                    "tags": [
+                        "2017",
+                        "U/A 13+",
+                        "2h 15m",
+                        "English",
+                        "Science Fiction"
+                    ],
+                    "description": "A pilot's crash reveals a world at war. Young Amazon Diana, defying her training, embarks on a journey, discovering her powers and purpose.",
+                    "id": "1971000396"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/2776/1776263582776-t",
+                    "tags": [
+                        "2019",
+                        "A",
+                        "1h 56m",
+                        "English",
+                        "Thriller"
+                    ],
+                    "description": "Bullied and alone, Arthur Fleck becomes the Joker.",
+                    "id": "1971000402"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/5873/1776263905873-t",
+                    "tags": [
+                        "2020",
+                        "U/A 16+",
+                        "1h 44m",
+                        "2 Languages",
+                        "Comedy"
+                    ],
+                    "description": "After splitting with the Joker, Harley Quinn joins superheroines Black Canary, Huntress, and Renee Montoya to save a young girl from an evil crime lord.",
+                    "id": "1971000529"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/4062/1776264094062-t",
+                    "tags": [
+                        "2016",
+                        "U/A 16+",
+                        "1h 57m",
+                        "English",
+                        "Adventure"
+                    ],
+                    "description": "World-ending threat? A covert agency unleashes the most dangerous convictsÑsupervillainsÑto defend humanity. Their first mission: survival.",
+                    "id": "1971000590"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/4452/1776264544452-t",
+                    "tags": [
+                        "2020",
+                        "U/A 13+",
+                        "2h 24m",
+                        "English",
+                        "Adventure"
+                    ],
+                    "description": "Wonder Woman faces a double threat: the cunning Maxwell Lord and her former friend, Barbara Minerva. Can she conquer them both while reuniting with her love?",
+                    "id": "1971000394"
+                }
+            ]
+        },
+        {
+            "title": "Netflix Popular Shows",
+            "list": [
+                {
+                    "tags": [
+                        "2025",
+                        "5 Seasons",
+                        "U/A 16+",
+                        "Sci-Fi"
+                    ],
+                    "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces and one strange little girl.",
+                    "nameLogo": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABWRb9fOoyNFcmxknSU10VpQNTr6iZp2M7sB5ahMjDFpCYvtZdytMefjW3aKWj-bz-pkK2mSnB8KL4G8xEKpEpEw5VfzSgrUELg.webp?r=347",
+                    "id": "80057281",
+                    "ott": "nf"
+                },
+                {
+                    "tags": [
+                        "2026",
+                        "2 Seasons",
+                        "U/A 16+",
+                        "Action"
+                    ],
+                    "description": "With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure in this live-action adaptation of the popular manga.",
+                    "nameLogo": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABV3CEs2r_UGJZJscNPmBD38aTViNCqvDjsedhftHTbrYfE4Gv9vqQBHJb452mdMIfiwUyk03tojw0Eb8LAapVP7oGcwGS7245w.webp?r=5c2",
+                    "id": "80217863",
+                    "ott": "nf"
+                },
+                {
+                    "tags": [
+                        "2025",
+                        "2 Seasons",
+                        "U/A 16+",
+                        "Fantasy"
+                    ],
+                    "description": "Smart, sarcastic and a little dead inside, Wednesday Addams investigates twisted mysteries while making new friends — and foes — at Nevermore Academy.",
+                    "nameLogo": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABXG5gmlIhSDh9F5SdDQdBne7h4_X54BQqzS_bAwMmlgTD9uZTKR9pEl7h7UkRvMhwJ0_HwqYNaKLXgBh2g5sxbWzIp3Tn597sA.webp?r=d59",
+                    "id": "81231974",
+                    "ott": "nf"
+                },
+                {
+                    "tags": [
+                        "2020",
+                        "3 Seasons",
+                        "A",
+                        "Thriller"
+                    ],
+                    "description": "A missing child sets four families on a frantic hunt for answers as they unearth a mind-bending mystery that spans three generations.",
+                    "nameLogo": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABUwU8NxVAYrz7-d1ZeLT_n0Az18QVjxPPx0b3JLfdt-Kola0JBanfg1BzLD0sNtqODcGfwkaK6AQE0gvgyinmsSFItw_vrgr7Q.webp?r=50f",
+                    "id": "80100172",
+                    "ott": "nf"
+                },
+                {
+                    "tags": [
+                        "2026",
+                        "2 Seasons",
+                        "U/A 13+",
+                        "Fantasy"
+                    ],
+                    "description": "A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enemy bent on stopping him.",
+                    "nameLogo": "https://occ-0-6499-3663.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABUn60BBUq0UYCa8UAWmE3JnywFzScm1Xy2G3uyg6HvATf9pdaEqmeEqBu3QZGhSQ1HH2aKSk9I64FM5Ud5oFkWnkww2gWzzMsw.webp?r=7d7",
+                    "id": "80237957",
+                    "ott": "nf"
+                },
+                {
+                    "tags": [
+                        "2013",
+                        "5 Seasons",
+                        "A",
+                        "Drama"
+                    ],
+                    "description": "A terminally ill chemistry teacher teams with a former student to manufacture crystal meth to secure his family's future.",
+                    "nameLogo": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABfIP17iwikS4Aofw367u8BNhkIy9IaQUqe-JQCMox5AJen7XGEv1aRkSl-hzrHyBTc_qoo4lfwK3SZI-oLG1zaubo9rPSai9N1I.webp?r=c0d",
+                    "id": "70143836",
+                    "ott": "nf"
+                },
+                {
+                    "tags": [
+                        "2021",
+                        "5 Parts",
+                        "A",
+                        "Thriller"
+                    ],
+                    "description": "Eight thieves take hostages and lock themselves in the Royal Mint of Spain as a criminal mastermind manipulates the police to carry out his plan.",
+                    "nameLogo": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABdxnSvgjtZjdWbQ-bq6SzybjYOWEXU3rJDZCjhbtRQhmI3z-6sgTvk-P9fcJXMayrvofvZDGiImiFkteSW5A1cGZa1cw4kEuxw.webp?r=768",
+                    "id": "80192098",
+                    "ott": "nf"
+                }
+            ]
+        },
+        {
+            "title": "Dark Comedies",
+            "list": [
+                {
+                    "tags": [
+                        "2019",
+                        "2 Seasons",
+                        "A",
+                        "Drama"
+                    ],
+                    "description": "A budding teen psychopath and a rebel hungry for adventure embark on a star-crossed road trip in this darkly comic series based on a graphic novel.",
+                    "nameLogo": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABTP-R4K43NgBNnMp0-MPCB9wePEJ2rfpPO-im5nfYU_PxKrGDrM9cEZjERIhKLeBE_aKzN7EtgLqb_BdCpqaPk2ZyTa_OzONXQ.webp?r=ec6",
+                    "id": "80175722",
+                    "ott": "nf"
+                },
+                {
+                    "tags": [
+                        "2020",
+                        "7 Episodes",
+                        "U/A 16+",
+                        "Comedy"
+                    ],
+                    "description": "Angsty Syd navigates high school awkwardness, family drama and an unrequited crush on her best friend while trying to rein in her budding superpowers.",
+                    "nameLogo": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABeFDbBldW1_rX8lLCYL8lFroV8vddjYu_UzH00lHBO1FmEcgqR5F-kq3AJI_EHEkvuLZpD-wrezFQ4gwlzaZTAXsJHfJzhdj8w.webp?r=1ca",
+                    "id": "80244781",
+                    "ott": "nf"
+                },
+                {
+                    "tags": [
+                        "2022",
+                        "2 Seasons",
+                        "A",
+                        "Comedy"
+                    ],
+                    "description": "Nadia keeps dying and reliving her 36th birthday party. She's trapped in a surreal time loop — and staring down the barrel of her own mortality.",
+                    "nameLogo": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABSCd-puPPkxFQg_BFrFq1wsc-KrZtjSrYgvz611pz4tebAgxseJGBpsaCljgHI7nIuUoQKtDNpAWKvQFOadwp9EDqr6F3YTgVg.webp?r=d0d",
+                    "id": "80211627",
+                    "ott": "nf"
+                },
+                {
+                    "tags": [
+                        "2022",
+                        "3 Seasons",
+                        "A",
+                        "Comedy"
+                    ],
+                    "description": "A hotheaded widow searching for the hit-and-run driver who mowed down her husband befriends an eccentric optimist who isn't quite what she seems.",
+                    "nameLogo": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABZAGkFcPELLEvLvrx0eRuGY4ChjNeepLFkN3S6tr-d4YwZerdQ0XGku6EWqEEa1Jsqhm3VpqZOj-gf_eCMgdOSh7J55VanlBEQ.webp?r=2f8",
+                    "id": "80219707",
+                    "ott": "nf"
+                },
+                {
+                    "tags": [
+                        "2016",
+                        "U/A 16+",
+                        "Drama"
+                    ],
+                    "description": "A writer-turned-caregiver and an ornery teen with muscular dystrophy bond after they set off on a road trip in search of offbeat landmarks and adventure.",
+                    "nameLogo": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABSiQTGmGliCJpB-24aaJ5apWk7h33zhx7hYJAFUq-wpZog2-0HHQRLH5t4pDX3Hs2K_Tgc35Nq559H581x5PStGw8XJaiQB0DQ.webp?r=f10",
+                    "id": "80097349",
+                    "ott": "nf"
+                },
+                {
+                    "tags": [
+                        "2026",
+                        "2 Seasons",
+                        "A",
+                        "Drama"
+                    ],
+                    "description": "The Emmy-winning series returns with a brand-new story of two couples whose blackmail war upends a country club, starring Oscar Isaac and Carey Mulligan.",
+                    "nameLogo": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABd1aetjOmD5feY8hU_7v3SFLFHv3ecnpGt_ZH2I-DioGOALDF84NyAZZS42mvYi5PN4e_LK42e3DCK2AfzwjGq8rbfJnhdFGDw.webp?r=25d",
+                    "id": "81447461",
+                    "ott": "nf"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1328/1371328-t-4aad29c1da04",
+                    "title": "Deadpool",
+                    "id": "1770003257",
+                    "description": "Wade Wilson's life is changed forever when an experiment by twisted scientist Ajax goes wrong. With his new powers, Wade decides to make Ajax pay.",
+                    "tags": [
+                        "2016",
+                        "A",
+                        "1h 48m",
+                        "English",
+                        "Action"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Pirates of the Caribbean",
+            "list": [
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/4280/1374280-t-4195a0ffe804",
+                    "title": "Pirates Of The Caribbean: The Curse Of The Black Pearl",
+                    "id": "1660010115",
+                    "description": "When Captain Barbossa kidnaps the Governer's daughter and her would-be suitor, Will Turner, coerces Captain Jack Sparrow into rescuing her.",
+                    "tags": [
+                        "2003",
+                        "U/A 13+",
+                        "2h 23m",
+                        "4 Languages",
+                        "Action"
+                    ]
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7064/1417064-t-30b2ba47fc95",
+                    "title": "Pirates Of The Caribbean: Dead Man's Chest",
+                    "id": "1660000012",
+                    "description": "Captain Jack Sparrow with Will and Elizabeth sets out to find the heart of Davy Jones and repay his debts.",
+                    "tags": [
+                        "2006",
+                        "U/A 13+",
+                        "2h 30m",
+                        "4 Languages",
+                        "Action"
+                    ]
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/1217/1541217-t-c8765a98cb05",
+                    "title": "Pirates Of The Caribbean: At World's End",
+                    "id": "1660000055",
+                    "description": "Captain Barbossa and others must sail off the edge of the map, to find Jack Sparrow to fight against the East India Company.",
+                    "tags": [
+                        "2007",
+                        "U/A 13+",
+                        "2h 48m",
+                        "4 Languages",
+                        "Action"
+                    ]
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_156/sources/r1/cms/prod/9094/809094-t",
+                    "title": "Pirates Of The Caribbean: On Stranger Tides",
+                    "id": "1260018338",
+                    "description": "Captain Jack Sparrow journeys to the fabled Fountain of Youth when a woman from his past forces him to board the ship of his nemesis Blackbeard.",
+                    "tags": [
+                        "2011",
+                        "U/A 13+",
+                        "2h 16m",
+                        "4 Languages",
+                        "Action"
+                    ]
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_156/sources/r1/cms/prod/1138/1371138-t-b91786ea2bca",
+                    "title": "Pirates of the Caribbean - Salazar's Revenge",
+                    "id": "1260018339",
+                    "description": "Captain Jack Sparrow senses the winds of ill-fortune when his nemesis Captain Salazar escapes from the Devil's Triangle, to kill every pirate at sea.",
+                    "tags": [
+                        "2017",
+                        "U/A 13+",
+                        "2h 9m",
+                        "4 Languages",
+                        "Action"
+                    ]
+                }
+            ]
+        }
     ],
     "films": [
-        { "title": "Fast & Furious Franchise", "list": [{ "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/89/1737370450089-t", "tags": [{ "value": "2023" }, { "value": "U/A 16+" }, { "value": "2h 15m" }, { "value": "5 Languages" }, { "value": "Action" }], "description": "Past sins catch up to Dom Toretto.", "id": "1971309276" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/9093/1734341859093-t", "tags": [{ "value": "2021" }, { "value": "U/A 16+" }, { "value": "2h 16m" }, { "value": "4 Languages" }, { "value": "Action" }], "description": "Dom Toretto's global mission tests the meaning of family with high-octane action, old allies, and a shocking new enemy.", "id": "1971001465" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/9453/1734071999453-t", "tags": [{ "value": "2017" }, { "value": "U/A 16+" }, { "value": "2h 10m" }, { "value": "2 Languages" }, { "value": "Action" }], "description": "A mysterious woman seduces Dom into a betrayal of those closest to him, forcing the team to face trials that will test them as never before.", "id": "1971001376" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/5956/1734513665956-t", "tags": [{ "value": "2015" }, { "value": "U/A 16+" }, { "value": "2h 11m" }, { "value": "4 Languages" }, { "value": "Action" }], "description": "Dominic and his crew are targeted by a ruthless black-ops assassin out for revenge. To stop him, they must also secure a prototype device.", "id": "1971011143" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/2983/1734502002983-t", "tags": [{ "value": "2013" }, { "value": "U/A 16+" }, { "value": "2h 4m" }, { "value": "4 Languages" }, { "value": "Action" }], "description": "When a Russian Military Convoy is taken down in Moscow, Agent Hobbs goes to the only man who can help him find his target – Dominic Toretto.", "id": "1971001377" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/7968/1734341637968-t", "tags": [{ "value": "2011" }, { "value": "U/A 16+" }, { "value": "2h 5m" }, { "value": "4 Languages" }, { "value": "Action" }], "description": "Toretto and O'Conner reunite their crew to pull off a $100 million heist, facing a ruthless agent and corrupt cops.", "id": "1971001375" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/9583/1734341739583-t", "tags": [{ "value": "2009" }, { "value": "U/A 16+" }, { "value": "1h 42m" }, { "value": "2 Languages" }, { "value": "Action" }], "description": "Race across city streets and beyond in Fast & Furious! Big rig heists and precision tunnel crawls ignite the ultimate high-speed adventure.", "id": "1971001378" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/2092/1734079222092-t", "tags": [{ "value": "2006" }, { "value": "U/A 16+" }, { "value": "1h 39m" }, { "value": "4 Languages" }, { "value": "Action" }], "description": "A street racer's quest for redemption clashes with the dangerous Japanese underworld.", "id": "1971001381" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/6377/1734169446377-t", "tags": [{ "value": "2003" }, { "value": "U/A 16+" }, { "value": "1h 43m" }, { "value": "4 Languages" }, { "value": "Action" }], "description": "Fugitive cop Paul Walker finds himself in the heart of illegal street racing, leading to an adrenaline-fueled escape.", "id": "1971001380" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/3233/1734079293233-t", "tags": [{ "value": "2001" }, { "value": "U/A 16+" }, { "value": "1h 42m" }, { "value": "4 Languages" }, { "value": "Action" }], "description": "LAPD cop Brian O'Conner infiltrates an illegal street-racing gang led by the charismatic Dominic Toretto. However, Brian's loyalty gets tested at every turn.", "id": "1971001379" }] }
+        {
+            "title": "Christopher Nolan Movies",
+            "list": [
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/122/1757660040122-t",
+                    "title": "Oppenheimer",
+                    "id": "1971011128",
+                    "description": "J. Robert Oppenheimer, the architect of the atomic bomb, faces moral turmoil as his wartime creation shapes humanity's future.",
+                    "tags": [
+                        "2023",
+                        "U/A 16+",
+                        "3h",
+                        "7 Languages",
+                        "Biopic"
+                    ]
+                },
+                {
+                    "nameLogo": "https://gateway.prd.sky.ch/imageapi/fiction/logo?param=%7B%22movId%22%3A95258%2C%22format%22%3A%22webp%22%2C%22size%22%3A%22400x400%22%2C%22device%22%3A%22web%22%2C%22language%22%3A%22en%22%7D",
+                    "title": "Tenet",
+                    "description": "Christopher Nolan brings a sci-fi thriller based not on time travel, but time inversion. Armed only with the word Tenet, the Protagonist (John David Washington) must learn to manipulate the flow of time to prevent an attack from the future.",
+                    "tags": [
+                        "2020",
+                        "2 h 23 min",
+                        "U/A 13+",
+                        "Action"
+                    ],
+                    "ott": "pv"
+                },
+                {
+                    "nameLogo": "https://www.pngkey.com/png/detail/330-3300598_does-anyone-have-the-sea-background-on-the.png",
+                    "title": "Dunkirk",
+                    "description": "Trapped on the beach with their backs to the sea, British and Allied troops are surrounded by enemy forces facing a fierce battle in World War II.",
+                    "tags": [
+                        "2017",
+                        "1 h 42 min",
+                        "U/A 16+",
+                        "International"
+                    ],
+                    "ott": "pv"
+                },
+                {
+                    "nameLogo": "https://m.media-amazon.com/images/S/pv-target-images/0a5cf4f261921b0547fb7ff6e7d1133d9df06b3113b77feea811ba907c02182f._BR-6_AC_SX600_FMwebp_.png",
+                    "title": "Interstellar",
+                    "description": "A team of explorers travel beyond this galaxy through a newly discovered wormhole to discover whether mankind has a future among the stars.",
+                    "tags": [
+                        "2014",
+                        "2 h 42 min",
+                        "U/A 16+",
+                        "Science Fiction"
+                    ],
+                    "ott": "pv"
+                },
+                {
+                    "nameLogo": "https://m.media-amazon.com/images/S/pv-target-images/63bf1270d081e43c650de8a83c787154dc72c0138cf5f563376a1227c0d9cd93._SX1080_FMjpg_.jpg",
+                    "title": "The Dark Knight Rises",
+                    "description": "Batman battles a merciless terrorist named Bane.",
+                    "tags": [
+                        "2012",
+                        "2 h 37 min",
+                        "NR",
+                        "International"
+                    ],
+                    "ott": "pv"
+                },
+                {
+                    "nameLogo": "https://m.media-amazon.com/images/S/pv-target-images/31c85abb87cfea0ffee42bf63967a41e086d209cf877b2867c573b45d7423744._SX1080_FMjpg_.jpg",
+                    "title": "The Dark Knight",
+                    "description": "Having struck his first blow against the criminals of Gotham, Batman faces an escalation.",
+                    "tags": [
+                        "2008",
+                        "2 h 25 min",
+                        "U/A 16+",
+                        "Suspense"
+                    ],
+                    "ott": "pv"
+                },
+                {
+                    "nameLogo": "https://image.tmdb.org/t/p/original/u2hbM4XIAAjBwLOvPLxmQPUeRg2.png",
+                    "title": "The Prestige",
+                    "description": "The rivalry between two magicians is exacerbated when one of them performs the ultimate illusion.",
+                    "tags": [
+                        "2006",
+                        "2 h 4 min",
+                        "U/A 16+",
+                        "Drama"
+                    ],
+                    "ott": "pv"
+                },
+                {
+                    "nameLogo": "https://image.tmdb.org/t/p/original/hjXtRuzpFABB1pIfqbgdU3nKj7i.png",
+                    "title": "Batman Begins",
+                    "description": "Bruce Wayne travels to the Far East, where he's trained in the martial arts by a member of the League of Shadows. When Ducard reveals the League's purpose, Wayne returns to Gotham intent on cleaning up the city without resorting to murder.",
+                    "tags": [
+                        "2005",
+                        "2 h 12 min",
+                        "U/A 16+",
+                        "Action"
+                    ],
+                    "ott": "pv"
+                },
+                {
+                    "nameLogo": "https://m.media-amazon.com/images/S/pv-target-images/cb30051d637f5501920391badc5c27b21480805970f6002bc898363ef923b63a._SX1080_FMjpg_.jpg",
+                    "title": "Insomnia",
+                    "description": "In this atmospheric psychological thriller two LAPD detectives are sent to a remote Alaskan town to investigate a teen murder. Under the glare of perpetual daylight Will slowly unravels as his partner is killed and he's compromised by the mind games of a reclusive writer, the primary suspect.",
+                    "tags": [
+                        "2002",
+                        "1 h 53 min",
+                        "A",
+                        "Suspense"
+                    ],
+                    "ott": "pv"
+                }
+            ]
+        },
+        {
+            "title": "MCU Infinity Saga",
+            "list": [
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/9829/1369829-t-afacefff7a92",
+                    "tags": [
+                        "2008",
+                        "U/A 13+",
+                        "2h 5m",
+                        "4 Languages",
+                        "Super Heroes"
+                    ],
+                    "description": "After surviving an unexpected attack in enemy territory, jet-setting industrialist Tony Stark builds a high-tech suit of armor and vows to protect the world.",
+                    "id": "1660000038"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/2880/1714634712880-t",
+                    "tags": [
+                        "2008",
+                        "U/A 16+",
+                        "1h 52m",
+                        "English",
+                        "Super Heroes"
+                    ],
+                    "description": "Bruce Banner faces a nightmarish enemy after he is forced out of hiding.",
+                    "id": "1000046231"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/9090/809090-t",
+                    "tags": [
+                        "2010",
+                        "U/A 13+",
+                        "2h 4m",
+                        "4 Languages",
+                        "Super Heroes"
+                    ],
+                    "description": "Tony Stark is under pressure from various sources, to share his technology with the world. And, he needs to find a way to deal with his enemies.",
+                    "id": "1660000039"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/9169/809169-t",
+                    "tags": [
+                        "2011",
+                        "U/A 13+",
+                        "1h 54m",
+                        "4 Languages",
+                        "Super Heroes"
+                    ],
+                    "description": "The powerful, but arrogant god Thor, is cast out of Asgard to live amongst humans on Earth, where he soon becomes one of their finest defenders.",
+                    "id": "1660000044"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/8064/1368064-t-8c2ddf7c1366",
+                    "tags": [
+                        "2011",
+                        "U/A 13+",
+                        "2h 4m",
+                        "4 Languages",
+                        "Super Heroes"
+                    ],
+                    "description": "After being deemed unfit for military service, Steve Rogers volunteers for a top secret research project that turns him into Captain America.",
+                    "id": "1660000034"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/52/1370052-t-c192aeeb4c31",
+                    "tags": [
+                        "2012",
+                        "U/A 13+",
+                        "2h 22m",
+                        "4 Languages",
+                        "Super Heroes"
+                    ],
+                    "description": "Nick Fury recruits a team of heroes to battle an unexpected enemy.",
+                    "id": "1660000015"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/40/1370040-t-790936721d41",
+                    "tags": [
+                        "2013",
+                        "U/A 13+",
+                        "2h 10m",
+                        "4 Languages",
+                        "Super Heroes"
+                    ],
+                    "description": "When Tony Stark/Iron Man finds his world reduced to rubble, one question haunts him: Does the man make the suit, or does the suit make the man?",
+                    "id": "1660000042"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/110/1370110-t-afc38768f488",
+                    "tags": [
+                        "2013",
+                        "U/A 13+",
+                        "1h 52m",
+                        "4 Languages",
+                        "Super Heroes"
+                    ],
+                    "description": "Thor fights to restore order across the cosmos...but an ancient race led by the vengeful Malekith returns to plunge the universe back into darkness.",
+                    "id": "1260018142"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/7957/1407957-t-9256070ab6cb",
+                    "tags": [
+                        "2014",
+                        "U/A 13+",
+                        "2h 15m",
+                        "4 Languages",
+                        "Super Heroes"
+                    ],
+                    "description": "Steve Rogers teams up with Natasha Romanoff, aka Black Widow, to battle a powerful yet shadowy enemy in present-day Washington, D.C.",
+                    "id": "1260016410"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/3557/1373557-t-f95559d60d82",
+                    "tags": [
+                        "2014",
+                        "U/A 13+",
+                        "2h",
+                        "4 Languages",
+                        "Super Heroes"
+                    ],
+                    "description": "Brash adventurer Peter Quill finds himself the object of an unrelenting bounty hunt after stealing a mysterious orb coveted by a powerful villain.",
+                    "id": "1260018294"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/2746/1372746-t-9e3930b7f230",
+                    "tags": [
+                        "2015",
+                        "U/A 13+",
+                        "2h 21m",
+                        "4 Languages",
+                        "Super Heroes"
+                    ],
+                    "description": "Tony Stark builds an AI system named Ultron, and when things go wrong, it's up to Earth's mightiest heroes to stop the villain from enacting his terrible plan.",
+                    "id": "1260018315"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/9397/1369397-t-60c8791dcda7",
+                    "tags": [
+                        "2015",
+                        "U/A 13+",
+                        "1h 57m",
+                        "4 Languages",
+                        "Super Heroes"
+                    ],
+                    "description": "Cat burglar Scott Lang must embrace his inner-hero and help his mentor, Dr. Hank Pym, plan and pull off a heist that will save the world.",
+                    "id": "1260018141"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/1135/1371135-t-10cd54d4d96f",
+                    "tags": [
+                        "2016",
+                        "U/A 13+",
+                        "2h 27m",
+                        "4 Languages",
+                        "Super Heroes"
+                    ],
+                    "description": "The government's decision to push a Hero Registration Act to regulate heroes creates a rift among the Avengers and other heroes.",
+                    "id": "1260016768"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/1175/1371175-t-00259386fecd",
+                    "tags": [
+                        "2016",
+                        "U/A 13+",
+                        "1h 54m",
+                        "4 Languages",
+                        "Super Heroes"
+                    ],
+                    "description": "Dr. Strange faces a difficult choice of whether to return to his life of luxury or to protect the world as the most powerful sorcerer in existence.",
+                    "id": "1260018179"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/1181/1371181-t-4ff1ddf2ed06",
+                    "tags": [
+                        "2017",
+                        "U/A 13+",
+                        "2h 15m",
+                        "4 Languages",
+                        "Super Heroes"
+                    ],
+                    "description": "Marvel Studios' Guardians of the Galaxy Vol. 2 continues the team's adventures as they unravel the mystery of Star-Lord's parentage.",
+                    "id": "1260018295"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/1291/1371291-t-dce6933289e0",
+                    "tags": [
+                        "2017",
+                        "U/A 13+",
+                        "2h 10m",
+                        "4 Languages",
+                        "Super Heroes"
+                    ],
+                    "description": "Deprived of his mighty hammer Mjolnir, Thor must escape the other side of the universe to save his home, Asgard, from Hela, the goddess of death.",
+                    "id": "1660010577"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/635/1410635-t-847283699e19",
+                    "tags": [
+                        "2018",
+                        "U/A 13+",
+                        "2h 14m",
+                        "4 Languages",
+                        "Super Heroes"
+                    ],
+                    "description": "T'Challa, heir to the hidden kingdom of Wakanda, must lead his people into a new future and confront a challenger from his country's past.",
+                    "id": "1660010672"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/4910/1374910-t-c524f5224090",
+                    "tags": [
+                        "2018",
+                        "U/A 13+",
+                        "2h 29m",
+                        "4 Languages",
+                        "Super Heroes"
+                    ],
+                    "description": "With the powerful Thanos on the verge of raining destruction upon the universe, the Avengers risk everything in the ultimate showdown of all time.",
+                    "id": "1660010677"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/1319/1371319-t-ace967ea8678",
+                    "tags": [
+                        "2018",
+                        "U/A 13+",
+                        "1h 59m",
+                        "4 Languages",
+                        "Super Heroes"
+                    ],
+                    "description": "Accompanied by Hope van Dyne and Dr. Hank Pym, Scott Lang must once again don the Ant-Man suit and fight alongside the Wasp.",
+                    "id": "1660010696"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/6803/1366803-t-83b9adb667f9",
+                    "tags": [
+                        "2019",
+                        "U/A 13+",
+                        "2h 4m",
+                        "4 Languages",
+                        "Super Heroes"
+                    ],
+                    "description": "Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races.",
+                    "id": "1260014878"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/6722/1366722-t-48964025ccfe",
+                    "tags": [
+                        "2019",
+                        "U/A 13+",
+                        "3h 1m",
+                        "4 Languages",
+                        "Super Heroes"
+                    ],
+                    "description": "After the devastating events of the Infinity War, the Avengers assemble once more to reverse Thanos' actions and restore balance to the universe.",
+                    "id": "1260013556"
+                }
+            ]
+        },
+        {
+            "title": "Fast & Furious Franchise",
+            "list": [
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/89/1737370450089-t",
+                    "tags": [
+                        "2023",
+                        "U/A 16+",
+                        "2h 15m",
+                        "5 Languages",
+                        "Action"
+                    ],
+                    "description": "Past sins catch up to Dom Toretto.",
+                    "id": "1971309276"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/9093/1734341859093-t",
+                    "tags": [
+                        "2021",
+                        "U/A 16+",
+                        "2h 16m",
+                        "4 Languages",
+                        "Action"
+                    ],
+                    "description": "Dom Toretto's global mission tests the meaning of family with high-octane action, old allies, and a shocking new enemy.",
+                    "id": "1971001465"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/9453/1734071999453-t",
+                    "tags": [
+                        "2017",
+                        "U/A 16+",
+                        "2h 10m",
+                        "2 Languages",
+                        "Action"
+                    ],
+                    "description": "A mysterious woman seduces Dom into a betrayal of those closest to him, forcing the team to face trials that will test them as never before.",
+                    "id": "1971001376"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/5956/1734513665956-t",
+                    "tags": [
+                        "2015",
+                        "U/A 16+",
+                        "2h 11m",
+                        "4 Languages",
+                        "Action"
+                    ],
+                    "description": "Dominic and his crew are targeted by a ruthless black-ops assassin out for revenge. To stop him, they must also secure a prototype device.",
+                    "id": "1971011143"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/2983/1734502002983-t",
+                    "tags": [
+                        "2013",
+                        "U/A 16+",
+                        "2h 4m",
+                        "4 Languages",
+                        "Action"
+                    ],
+                    "description": "When a Russian Military Convoy is taken down in Moscow, Agent Hobbs goes to the only man who can help him find his target – Dominic Toretto.",
+                    "id": "1971001377"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/7968/1734341637968-t",
+                    "tags": [
+                        "2011",
+                        "U/A 16+",
+                        "2h 5m",
+                        "4 Languages",
+                        "Action"
+                    ],
+                    "description": "Toretto and O'Conner reunite their crew to pull off a $100 million heist, facing a ruthless agent and corrupt cops.",
+                    "id": "1971001375"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/9583/1734341739583-t",
+                    "tags": [
+                        "2009",
+                        "U/A 16+",
+                        "1h 42m",
+                        "2 Languages",
+                        "Action"
+                    ],
+                    "description": "Race across city streets and beyond in Fast & Furious! Big rig heists and precision tunnel crawls ignite the ultimate high-speed adventure.",
+                    "id": "1971001378"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/2092/1734079222092-t",
+                    "tags": [
+                        "2006",
+                        "U/A 16+",
+                        "1h 39m",
+                        "4 Languages",
+                        "Action"
+                    ],
+                    "description": "A street racer's quest for redemption clashes with the dangerous Japanese underworld.",
+                    "id": "1971001381"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/6377/1734169446377-t",
+                    "tags": [
+                        "2003",
+                        "U/A 16+",
+                        "1h 43m",
+                        "4 Languages",
+                        "Action"
+                    ],
+                    "description": "Fugitive cop Paul Walker finds himself in the heart of illegal street racing, leading to an adrenaline-fueled escape.",
+                    "id": "1971001380"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/3233/1734079293233-t",
+                    "tags": [
+                        "2001",
+                        "U/A 16+",
+                        "1h 42m",
+                        "4 Languages",
+                        "Action"
+                    ],
+                    "description": "LAPD cop Brian O'Conner infiltrates an illegal street-racing gang led by the charismatic Dominic Toretto. However, Brian's loyalty gets tested at every turn.",
+                    "id": "1971001379"
+                }
+            ]
+        },
+        {
+            "title": "Harry Potter Movies",
+            "list": [
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/8268/1776192198268-t",
+                    "tags": [
+                        "2001",
+                        "U/A 13+",
+                        "2h 26m",
+                        "3 Languages",
+                        "Fantasy"
+                    ],
+                    "description": "An orphaned boy enrols in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world.",
+                    "id": "1971000398"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/8889/1776316518889-t",
+                    "tags": [
+                        "2002",
+                        "U/A 13+",
+                        "2h 34m",
+                        "4 Languages",
+                        "Fantasy"
+                    ],
+                    "description": "Harry ignores warnings not to return to Hogwarts, only to find the school plagued by a series of mysterious attacks and a strange voice haunting him.",
+                    "id": "1971000409"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/4160/1776317384160-t",
+                    "tags": [
+                        "2004",
+                        "U/A 13+",
+                        "2h 15m",
+                        "4 Languages",
+                        "Fantasy"
+                    ],
+                    "description": "Harry, Ron and Hermione return as teenagers for a third term at Hogwarts. But Harry's fate looks bleak when the infamous Sirius Black escapes from prison.",
+                    "id": "1971000405"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/5762/1776317875762-t",
+                    "tags": [
+                        "2005",
+                        "U/A 13+",
+                        "2h 30m",
+                        "4 Languages",
+                        "Fantasy"
+                    ],
+                    "description": "This term, a competition will be held between three schools of wizardry, and contestants will be magically chosen for the very dangerous event.",
+                    "id": "1971000404"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/8203/1776318188203-t",
+                    "tags": [
+                        "2007",
+                        "U/A 13+",
+                        "2h 12m",
+                        "4 Languages",
+                        "Fantasy"
+                    ],
+                    "description": "Harry and Dumbledore's warning of Voldemort's return is ignored. Now, they face persecution as a power-hungry bureaucrat takes control of Hogwarts.",
+                    "id": "1971000408"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/6228/1776192186228-t",
+                    "tags": [
+                        "2009",
+                        "U/A 13+",
+                        "2h 27m",
+                        "4 Languages",
+                        "Fantasy"
+                    ],
+                    "description": "While Death Eaters emboldened by the return of Lord Voldemort wreak havoc in both the Muggle and Wizarding worlds, Harry suspects new dangers within Hogwarts.",
+                    "id": "1971000403"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/7160/1776318407160-t",
+                    "tags": [
+                        "2010",
+                        "U/A 13+",
+                        "2h 20m",
+                        "4 Languages",
+                        "Fantasy"
+                    ],
+                    "description": "Harry, Ron, and Hermione's quest to destroy Horcruxes leads them to a shocking discovery: the legendary Deathly Hallows.",
+                    "id": "1971000406"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/3313/1776318793313-t",
+                    "tags": [
+                        "2011",
+                        "U/A 13+",
+                        "2h 5m",
+                        "4 Languages",
+                        "Fantasy"
+                    ],
+                    "description": "Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.",
+                    "id": "1971000407"
+                }
+            ]
+        },
+        {
+            "title": "Transformers Hub",
+            "list": [
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/3547/1739503073547-t",
+                    "tags": [
+                        "2007",
+                        "U/A 13+",
+                        "2h 17m",
+                        "4 Languages",
+                        "Action"
+                    ],
+                    "description": "When the epic struggle between the heroic Autobots and the evil Decepticons comes to Earth, Sam Witwicky becomes mankind's last chance for survival.",
+                    "id": "1971001504"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/1668/1734086961668-t",
+                    "tags": [
+                        "2009",
+                        "U/A 13+",
+                        "2h 23m",
+                        "4 Languages",
+                        "Action"
+                    ],
+                    "description": "Sam Witwicky's college plans shatter when he discovers the Transformers' history, thrusting him into an epic battle for Earth's fate.",
+                    "id": "1971001334"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/769/1734609160769-t",
+                    "tags": [
+                        "2011",
+                        "U/A 13+",
+                        "2h 28m",
+                        "4 Languages",
+                        "Action"
+                    ],
+                    "description": "Earth's hidden secrets threaten the Autobots. Sam Witwicky leads the fight against Decepticon schemes. Can they save the planet?",
+                    "id": "1971001500"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/1639/1734087011639-t",
+                    "tags": [
+                        "2014",
+                        "U/A 13+",
+                        "2h 38m",
+                        "4 Languages",
+                        "Action"
+                    ],
+                    "description": "With humanity facing extinction from a new threat, it's up to the Autobots to save Earth. They'll need new allies, including inventor Cade and the Dinobots!",
+                    "id": "1971001501"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/3212/1734086803212-t",
+                    "tags": [
+                        "2017",
+                        "U/A 13+",
+                        "2h 28m",
+                        "4 Languages",
+                        "Action"
+                    ],
+                    "description": "Optimus Prime launches a mission to save Cybertron by destroying Earth. Now, Bumblebee and Cade must lead the Autobots in the ultimate battle to save mankind.",
+                    "id": "1971001487"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/296/1734090740296-t",
+                    "tags": [
+                        "2018",
+                        "U/A 13+",
+                        "1h 49m",
+                        "4 Languages",
+                        "Action"
+                    ],
+                    "description": "Charlie finds a wounded Bumblebee and heals him. When Bumblebee remembers his mission, will Charlie join him on his dangerous journey?",
+                    "id": "1971001354"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/1365/1743158371365-t",
+                    "tags": [
+                        "2023",
+                        "U/A 13+",
+                        "2h 7m",
+                        "4 Languages",
+                        "Action"
+                    ],
+                    "description": "The Autobots team up with a powerful faction of Transformers known as the Maximals to save Earth.",
+                    "id": "1271403121"
+                }
+            ]
+        }
     ],
     "series": [
-        { "title": "HBO Max Originals", "list": [{ "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/2933/1776193522933-t", "tags": [{ "value": "2019" }, { "value": "A" }, { "value": "8 Seasons" }, { "value": "5 Languages" }, { "value": "Fantasy" }], "description": "In the fantasy world of Westeros, the Stark family, Wardens of the North, face a web of intrigue and danger.", "id": "1971002880" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/2429/1776196342429-t", "tags": [{ "value": "2023" }, { "value": "A" }, { "value": "4 Seasons" }, { "value": "5 Languages" }, { "value": "Drama" }], "description": "When their father steps down, the Logan family's control over their global entertainment empire is threatened.", "id": "1971002875" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/4270/1776196744270-t", "tags": [{ "value": "2025" }, { "value": "A" }, { "value": "2 Seasons" }, { "value": "5 Languages" }, { "value": "Science Fiction" }], "description": "After a global pandemic destroys civilization, a hardened survivor takes charge of a 14-year-old girl who may be humanity's last hope.", "id": "1971002868" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/6260/1776194236260-t", "tags": [{ "value": "2024" }, { "value": "A" }, { "value": "4 Seasons" }, { "value": "5 Languages" }, { "value": "Drama" }], "description": "Alaska's winter hides a secret. Detectives uncover a mystery, battling inner demons.", "id": "1971002860" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/2977/1776243342977-t", "tags": [{ "value": "2019" }, { "value": "U/A 16+" }, { "value": "1 Season" }, { "value": "5 Languages" }, { "value": "Drama" }], "description": "April 1986: A nuclear power plant explodes at Chernobyl, USSR, resulting in one of history's worst man-made catastrophes.", "id": "1971002867" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/6435/1782090666435-t", "tags": [{ "value": "2026" }, { "value": "A" }, { "value": "3 Seasons" }, { "value": "4 Languages" }, { "value": "Fantasy" }], "description": "Set 200 years before the events of Game of Thrones, this epic series tells the story of House Targaryen.", "id": "1971002877" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/2949/1776194942949-t", "tags": [{ "value": "2024" }, { "value": "A" }, { "value": "1 Season" }, { "value": "7 Languages" }, { "value": "Drama" }], "description": "Colin Farrell returns as The Penguin in DC Studios' The Penguin, continuing Matt Reeves' The Batman universe.", "id": "1971003606" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/1731/1776196471731-t", "tags": [{ "value": "2007" }, { "value": "A" }, { "value": "6 Seasons" }, { "value": "English" }, { "value": "Crime" }], "description": "Tony Soprano, a New Jersey mob boss, struggles with the pressures of his life, leading him to seek therapy.", "id": "1971002996" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/4282/1776260494282-t", "tags": [{ "value": "2008" }, { "value": "A" }, { "value": "5 Seasons" }, { "value": "English" }, { "value": "Drama" }], "description": "The Baltimore drug scene, as seen through the eyes of drug dealers and law enforcement.", "id": "1971003018" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/9421/1776195059421-t", "tags": [{ "value": "2004" }, { "value": "A" }, { "value": "6 Seasons" }, { "value": "English" }, { "value": "Drama" }], "description": "Four female New Yorkers gossip about their sex lives (or lack thereof) and find new ways to deal with being a woman in the late 1990s.", "id": "1971003029" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/9460/1776244679460-t", "tags": [{ "value": "2001" }, { "value": "A" }, { "value": "1 Season" }, { "value": "English" }, { "value": "Action" }], "description": "The story of Easy Company of the U.S. Army 101st Airborne Division and their mission in World War II Europe, from Operation Overlord to V-J Day.", "id": "1971003127" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/6475/1776196696475-t", "tags": [{ "value": "2025" }, { "value": "A" }, { "value": "3 Seasons" }, { "value": "English" }, { "value": "Drama" }], "description": "Luxury resort. Privileged guests. Hidden darkness.", "id": "1971002873" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/7023/1776260637023-t", "tags": [{ "value": "2019" }, { "value": "A" }, { "value": "6 Seasons" }, { "value": "English" }, { "value": "Comedy" }], "description": "In Silicon Valley, Richard's Pied Piper app seeks investors. He faces fierce competition from five rival programmers vying for their place.", "id": "1971002879" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/4113/1776193714113-t", "tags": [{ "value": "2011" }, { "value": "A" }, { "value": "8 Seasons" }, { "value": "English" }, { "value": "Comedy" }], "description": "Fame and fortune follow Vince, Eric, Turtle, and Johnny. Their lavish lifestyle is tested by Ari's relentless demands.", "id": "1971002903" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/3615/1776193663615-t", "tags": [{ "value": "2026" }, { "value": "A" }, { "value": "4 Seasons" }, { "value": "English" }, { "value": "Drama" }], "description": "An ambitious group of twentysomethings compete for permanent positions at Pierpoint & Co, one of London’s preeminent investment banks.", "id": "1971003016" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/5056/1776320445056-t", "tags": [{ "value": "2017" }, { "value": "A" }, { "value": "3 Seasons" }, { "value": "English" }, { "value": "Drama" }], "description": "A vanished population leaves a New York community grappling with the mystery of their loss and a changed world.", "id": "1971002998" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/7713/1776402937713-t", "tags": [{ "value": "2021" }, { "value": "A" }, { "value": "5 Seasons" }, { "value": "English" }, { "value": "Drama" }], "description": "Follows the awkward experiences and racy tribulations of a modern-day African-American woman.", "id": "1971003019" }, { "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/2183/1776260542183-t", "tags": [{ "value": "2021" }, { "value": "A" }, { "value": "1 Season" }, { "value": "English" }, { "value": "Drama" }], "description": "A detective in a small Pennsylvania town investigates a local murder while trying to keep her life from falling apart.", "id": "1971002858" }] }
+        {
+            "title": "HBO Max Originals",
+            "list": [
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/2933/1776193522933-t",
+                    "tags": [
+                        "2019",
+                        "A",
+                        "8 Seasons",
+                        "5 Languages",
+                        "Fantasy"
+                    ],
+                    "description": "In the fantasy world of Westeros, the Stark family, Wardens of the North, face a web of intrigue and danger.",
+                    "id": "1971002880"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/2429/1776196342429-t",
+                    "tags": [
+                        "2023",
+                        "A",
+                        "4 Seasons",
+                        "5 Languages",
+                        "Drama"
+                    ],
+                    "description": "When their father steps down, the Logan family's control over their global entertainment empire is threatened.",
+                    "id": "1971002875"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/4270/1776196744270-t",
+                    "tags": [
+                        "2025",
+                        "A",
+                        "2 Seasons",
+                        "5 Languages",
+                        "Science Fiction"
+                    ],
+                    "description": "After a global pandemic destroys civilization, a hardened survivor takes charge of a 14-year-old girl who may be humanity's last hope.",
+                    "id": "1971002868"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/6260/1776194236260-t",
+                    "tags": [
+                        "2024",
+                        "A",
+                        "4 Seasons",
+                        "5 Languages",
+                        "Drama"
+                    ],
+                    "description": "Alaska's winter hides a secret. Detectives uncover a mystery, battling inner demons.",
+                    "id": "1971002860"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/2977/1776243342977-t",
+                    "tags": [
+                        "2019",
+                        "U/A 16+",
+                        "1 Season",
+                        "5 Languages",
+                        "Drama"
+                    ],
+                    "description": "April 1986: A nuclear power plant explodes at Chernobyl, USSR, resulting in one of history's worst man-made catastrophes.",
+                    "id": "1971002867"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/6435/1782090666435-t",
+                    "tags": [
+                        "2026",
+                        "A",
+                        "3 Seasons",
+                        "4 Languages",
+                        "Fantasy"
+                    ],
+                    "description": "Set 200 years before the events of Game of Thrones, this epic series tells the story of House Targaryen.",
+                    "id": "1971002877"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/2949/1776194942949-t",
+                    "tags": [
+                        "2024",
+                        "A",
+                        "1 Season",
+                        "7 Languages",
+                        "Drama"
+                    ],
+                    "description": "Colin Farrell returns as The Penguin in DC Studios' The Penguin, continuing Matt Reeves' The Batman universe.",
+                    "id": "1971003606"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/1731/1776196471731-t",
+                    "tags": [
+                        "2007",
+                        "A",
+                        "6 Seasons",
+                        "English",
+                        "Crime"
+                    ],
+                    "description": "Tony Soprano, a New Jersey mob boss, struggles with the pressures of his life, leading him to seek therapy.",
+                    "id": "1971002996"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/4282/1776260494282-t",
+                    "tags": [
+                        "2008",
+                        "A",
+                        "5 Seasons",
+                        "English",
+                        "Drama"
+                    ],
+                    "description": "The Baltimore drug scene, as seen through the eyes of drug dealers and law enforcement.",
+                    "id": "1971003018"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/9421/1776195059421-t",
+                    "tags": [
+                        "2004",
+                        "A",
+                        "6 Seasons",
+                        "English",
+                        "Drama"
+                    ],
+                    "description": "Four female New Yorkers gossip about their sex lives (or lack thereof) and find new ways to deal with being a woman in the late 1990s.",
+                    "id": "1971003029"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/9460/1776244679460-t",
+                    "tags": [
+                        "2001",
+                        "A",
+                        "1 Season",
+                        "English",
+                        "Action"
+                    ],
+                    "description": "The story of Easy Company of the U.S. Army 101st Airborne Division and their mission in World War II Europe, from Operation Overlord to V-J Day.",
+                    "id": "1971003127"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/6475/1776196696475-t",
+                    "tags": [
+                        "2025",
+                        "A",
+                        "3 Seasons",
+                        "English",
+                        "Drama"
+                    ],
+                    "description": "Luxury resort. Privileged guests. Hidden darkness.",
+                    "id": "1971002873"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/7023/1776260637023-t",
+                    "tags": [
+                        "2019",
+                        "A",
+                        "6 Seasons",
+                        "English",
+                        "Comedy"
+                    ],
+                    "description": "In Silicon Valley, Richard's Pied Piper app seeks investors. He faces fierce competition from five rival programmers vying for their place.",
+                    "id": "1971002879"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/4113/1776193714113-t",
+                    "tags": [
+                        "2011",
+                        "A",
+                        "8 Seasons",
+                        "English",
+                        "Comedy"
+                    ],
+                    "description": "Fame and fortune follow Vince, Eric, Turtle, and Johnny. Their lavish lifestyle is tested by Ari's relentless demands.",
+                    "id": "1971002903"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/3615/1776193663615-t",
+                    "tags": [
+                        "2026",
+                        "A",
+                        "4 Seasons",
+                        "English",
+                        "Drama"
+                    ],
+                    "description": "An ambitious group of twentysomethings compete for permanent positions at Pierpoint & Co, one of London’s preeminent investment banks.",
+                    "id": "1971003016"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/5056/1776320445056-t",
+                    "tags": [
+                        "2017",
+                        "A",
+                        "3 Seasons",
+                        "English",
+                        "Drama"
+                    ],
+                    "description": "A vanished population leaves a New York community grappling with the mystery of their loss and a changed world.",
+                    "id": "1971002998"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/7713/1776402937713-t",
+                    "tags": [
+                        "2021",
+                        "A",
+                        "5 Seasons",
+                        "English",
+                        "Drama"
+                    ],
+                    "description": "Follows the awkward experiences and racy tribulations of a modern-day African-American woman.",
+                    "id": "1971003019"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_200/sources/r1/cms/prod/2183/1776260542183-t",
+                    "tags": [
+                        "2021",
+                        "A",
+                        "1 Season",
+                        "English",
+                        "Drama"
+                    ],
+                    "description": "A detective in a small Pennsylvania town investigates a local murder while trying to keep her life from falling apart.",
+                    "id": "1971002858"
+                }
+            ]
+        },
+        {
+            "title": "Korean Shows",
+            "list": [
+                {
+                    "tags": [
+                        "2024",
+                        "8 Episodes",
+                        "U/A 16+",
+                        "Drama"
+                    ],
+                    "description": "Eight individuals trapped in a mysterious eight-story building participate in a tempting but dangerous show where they earn money as time passes.",
+                    "nameLogo": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABb-cO5YhM2Ukn4AHnCUTU9KBD9ZA211DDg-lWeIPZJ5p8Q7ihSUiQ4eiSjWcNQ1OxfZiW_IFwYjqvvVGXzIAIVHfGGu0CsygWQ.webp?r=d31",
+                    "id": "81719583",
+                    "ott": "nf"
+                },
+                {
+                    "tags": [
+                        "2025",
+                        "Limited Series",
+                        "U/A 13+",
+                        "Romance"
+                    ],
+                    "description": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs — proving love endures across time.",
+                    "nameLogo": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABYXhkNQDMaTRsVmDs99EyPuM5NjRuFc0_eCqOGmxcdbEv5v18nZBY-KJynSEOtfnn5SCAdC-FstPFyp3X0ZRa9kGzFb1SX1oSQ.webp?r=ca1",
+                    "id": "81681535",
+                    "ott": "nf"
+                },
+                {
+                    "tags": [
+                        "2026",
+                        "Limited Series",
+                        "U/A 16+",
+                        "Horror"
+                    ],
+                    "description": "A man who walks the spirit world and a court lady who hears the dead enter the East Palace by the king's orders — can they unravel its dark secrets?",
+                    "nameLogo": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABeOn8sNmIiFFxS--pBCeAIEbxDNmzqhX9eSp-Eh9dkfA3qnJAzXwjfmDgtKW72My3RRbizfCcvd30ohbpJSKQaMevC1KDPfLcg.webp?r=00e",
+                    "id": "81778702",
+                    "ott": "nf"
+                },
+                {
+                    "tags": [
+                        "2025",
+                        "3 Seasons",
+                        "A",
+                        "Thriller"
+                    ],
+                    "description": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits — with deadly high stakes.",
+                    "nameLogo": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABbj5bOy5PlkwtR3uxuM5LYn62HPfQjAEFYg0X-NqLZAmXC9D3yKJgf2w1OHqgn7QP179ffJI6TSVIwn6I8kAa6lTQaMT2nXZYQ.webp?r=197",
+                    "id": "81040344",
+                    "ott": "nf"
+                },
+                {
+                    "tags": [
+                        "2025",
+                        "3 Seasons",
+                        "A",
+                        "Thriller"
+                    ],
+                    "description": "An aimless gamer and his two friends find themselves in a parallel Tokyo, where they're forced to compete in a series of sadistic games to survive.",
+                    "nameLogo": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABaijPRidktr7hv5WQxmoQ2n7yDsYrZLWqKCk2enlbzjsQgCics68To-rF1Fmi80DxOIpM8uP9CkEsViaEm5o8ClrJhs5HmeuqA.webp?r=8ee",
+                    "id": "80200575",
+                    "ott": "nf"
+                },
+                {
+                    "tags": [
+                        "2025",
+                        "11 Episodes",
+                        "U/A 16+",
+                        "Drama"
+                    ],
+                    "description": "When a long-missing heir returns with lost memories, love and suspicion entwine. Is he truly Hongrang, or a stranger disturbing hearts and family ties?",
+                    "nameLogo": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABY8Om8vaATLsSb2Y6fuREmVVNl9rBVH5Ei9-BYB1Ncvm5wiAmiOzNaUKUVE0wTWYsEMlWXlsToDPYevu7_Eo68XRVbIODr6C4A.webp?r=86c",
+                    "id": "81708925",
+                    "ott": "nf"
+                },
+                {
+                    "tags": [
+                        "2025",
+                        "13 Episodes",
+                        "U/A 16+",
+                        "Romance"
+                    ],
+                    "description": "After a thousand years, a quirky genie returns to grant wishes to a woman born without feelings. Can his magic bring love and wonder to her world?",
+                    "nameLogo": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABUHJJ9IoSiV9rHZBfy8e3KiRqCOd5YtGtqkarVhFWFxdef4g0V2Y4ad6EvDtbeJTBdt9lUJaU4OYU5Bogl0Qbd3ohvabzuhI8Q.webp?r=548",
+                    "id": "81748484",
+                    "ott": "nf"
+                },
+                {
+                    "tags": [
+                        "2026",
+                        "Limited Series",
+                        "A",
+                        "Drama"
+                    ],
+                    "description": "When respect collapses in schools, unconventional inspectors arrive to set things right — with sharp, no-nonsense lessons you won't find in textbooks.",
+                    "nameLogo": "https://occ-0-6499-3662.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABQdGLijLtXte35WlVKLBS-IeKzvZtEiZR3sfmUOsp6ZhmocySD1YFL6edUT1uJOK1T3xCmRwvbVb2POTVOsL0ZURj6PcUEWUkQ.webp?r=8a7",
+                    "id": "81947300",
+                    "ott": "nf"
+                }
+            ]
+        },
+        {
+            "title": "Popular Prime Video Series",
+            "list": [
+                {
+                    "nameLogo": "https://m.media-amazon.com/images/S/pv-target-images/ea70fb319973def0c77cc71dca27bdd9110e2f5164d6981df426632a0b3b1df1._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/m-r/Prime/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kvf21cb47db8d34aa971cd86f57a65cf8d_SX248_FMjpg_.jpg",
+                    "title": "The Boys",
+                    "description": "THE BOYS is an irreverent take on what happens when superheroes, who are as popular as celebrities, as influential as politicians and as revered as Gods, abuse their superpowers rather than use them for good. It's the powerless against the super powerful as The Boys embark on a heroic quest to expose the truth about “The Seven,” and their formidable Vought backing.",
+                    "tags": [
+                        "2019",
+                        "5 Seasons",
+                        "A",
+                        "Action"
+                    ],
+                    "id": "0S1FYJ3LY9KTL9C7WFFAGA9F6F",
+                    "ott": "pv"
+                },
+                {
+                    "nameLogo": "https://m.media-amazon.com/images/S/pv-target-images/dc258c4f7efbfce736acaf6975ab0e80afa032dbc8c044ca9423ac32f3dbd84d._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/m-r/Prime/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kvf21cb47db8d34aa971cd86f57a65cf8d_SX248_FMpng_.png",
+                    "title": "Fallout",
+                    "description": "Based on one of the greatest video games of all time, Fallout is the story of haves and have-nots in a world in which there’s almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the incredibly complex, gleefully weird and highly violent universe waiting for them above.",
+                    "tags": [
+                        "2024",
+                        "2 Seasons",
+                        "A",
+                        "Action"
+                    ],
+                    "id": "0HAQAA7JM43QWX0H6GUD3IOF70",
+                    "ott": "pv"
+                },
+                {
+                    "nameLogo": "https://m.media-amazon.com/images/S/pv-target-images/50aac39294085b42cc5ab0b8a7603ad8bff7f55016c5f0f7f9bfd149737ba67b._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/m-r/Prime/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kvf21cb47db8d34aa971cd86f57a65cf8d_SX248_FMjpg_.jpg",
+                    "title": "From",
+                    "description": "FROM unravels the mystery of a nightmarish town that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest.",
+                    "tags": [
+                        "2022",
+                        "48min",
+                        "A",
+                        "Science Fiction"
+                    ],
+                    "id": "0NUSIUYWST5Y50I5UZSLNW196V",
+                    "ott": "pv"
+                },
+                {
+                    "nameLogo": "https://m.media-amazon.com/images/S/pv-target-images/4d40c1b5c588c61ac05275df50a4e1642c0354a79c8b9eb1766bc96f184e779d._SX1080_FMjpg_.jpg",
+                    "title": "The Lord of the Rings: The Rings of Power",
+                    "description": "Sauron has returned… with designs on ruling all of Middle-earth.",
+                    "tags": [
+                        "2024",
+                        "3 Seasons",
+                        "U/A 16+",
+                        "Action"
+                    ],
+                    "ott": "pv"
+                },
+                {
+                    "nameLogo": "https://m.media-amazon.com/images/S/pv-target-images/6ec8a6c06d98df9eb1ac076e879a800297ddb3375c1e4d3edf16bcf742cd31e0._SX1080_FMpng_.png",
+                    "title": "Reacher",
+                    "description": "In Season 3 of Reacher, Reacher foils a kidnapping in Maine and joins a powerful family's operation, uncovering secrets, corrupt agents, and his past foe Quinn. With his team, he fights to stop a major criminal plot.",
+                    "tags": [
+                        "2025",
+                        "4 Seasons",
+                        "A",
+                        "Action"
+                    ],
+                    "ott": "pv"
+                },
+                {
+                    "nameLogo": "https://m.media-amazon.com/images/S/pv-target-images/4b0182f25032adfd88472562ce0b1dd54cdf2e28bdf4ee78ecc04b1cc78da8f4._SX1080_FMpng_.png",
+                    "title": "The Wheel of Time",
+                    "description": "The lives of five young villagers change forever when a strange and powerful woman arrives, claiming one of them is the child of an ancient prophecy with the power to tip the balance between Light and Dark forever. They must choose whether to trust this stranger – and each other – with the fate of the world before the Dark One breaks out of His prison, and the Last Battle begins.",
+                    "tags": [
+                        "2021",
+                        "3 Seasons",
+                        "A",
+                        "Fantasy"
+                    ],
+                    "id": "0U3073DE9J38JXZ5WLZW5O8MH3",
+                    "ott": "pv"
+                }
+            ]
+        },
+        {
+            "title": "Horror Series",
+            "list": [
+                {
+                    "tags": [
+                        "2018",
+                        "10 Episodes",
+                        "A",
+                        "Horror"
+                    ],
+                    "description": "Flashing between past and present, a fractured family confronts haunting memories of their old home and the terrifying events that drove them from it.",
+                    "nameLogo": "https://occ-0-6499-3663.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABSBDE-xCfKLlTEG9qpftKFR92k7cjx2in5m_Hkz46PCy5ckb__8LjMXd3I3h3ynjIFZo7cv4V3lwgpQb3dQWvbDrCYdRWQrOsA.webp?r=b8c",
+                    "id": "80189221",
+                    "ott": "nf"
+                },
+                {
+                    "tags": [
+                        "2021",
+                        "Limited Series",
+                        "U/A 16+",
+                        "Horror"
+                    ],
+                    "description": "The arrival of a charismatic young priest brings glorious miracles, ominous mysteries and renewed religious fervor to a dying town desperate to believe.",
+                    "nameLogo": "https://occ-0-6499-3663.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABUWYt_h2MZ2CvoWUAvwpIiCN44lzyZBNDxipNeMGZN7Pr7oWaMuasEMnloPPDKkHFYBibGqbVgZJuJ3aKxn7oW4sjgoasmghrw.webp?r=7bd",
+                    "id": "81083626",
+                    "ott": "nf"
+                },
+                {
+                    "tags": [
+                        "2020",
+                        "9 Episodes",
+                        "U/A 16+",
+                        "Horror"
+                    ],
+                    "description": "Dead doesn't mean gone. An au pair plunges into an abyss of chilling secrets in this gothic romance from the creator of 'The Haunting of Hill House.'",
+                    "nameLogo": "https://occ-0-6499-3663.1.nflxso.net/dnm/api/v6/S4oi7EPZbv2UEPaukW54OORa0S8/AAAABay8Bfr3DZsWoMeFlZwOat4QRdbTS-JmhkJLvepxBBpKBFZ4xEAHRkAkKmkc5q4azNNO4-d3f_Fj_tdFx2MVC42y8mlBXh3nKA.webp?r=0a1",
+                    "id": "81237854",
+                    "ott": "nf"
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/52/1775124700052-t",
+                    "title": "Supernatural",
+                    "id": "1271614859",
+                    "description": "Two brothers battle evil forces.",
+                    "tags": [
+                        "2020",
+                        "A",
+                        "15 Seasons",
+                        "English",
+                        "Drama"
+                    ]
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/5152/1776404195152-t",
+                    "title": "The Outsider",
+                    "id": "1971002981",
+                    "description": "Investigators are confounded over an unspeakable crime that has been committed.",
+                    "tags": [
+                        "2020",
+                        "A",
+                        "1 Season",
+                        "English",
+                        "Drama"
+                    ]
+                },
+                {
+                    "nameLogo": "https://m.media-amazon.com/images/S/pv-target-images/4541f2a2073af1396e03d2a5bd26aad60b44a0899c7214e7a37b465fa29f366a._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/m-r/Prime/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kvf21cb47db8d34aa971cd86f57a65cf8d_SX248_FMjpg_.jpg",
+                    "title": "Them",
+                    "description": "It’s 1991, and LAPD Homicide Detective DAWN REEVE is assigned to a new case: the gruesome murder of a foster home mother that has left even the most hardened detectives shaken. Navigating a tumultuous time in Los Angeles, with a city on the razor’s edge of chaos, Dawn is determined to stop the killer. But as she draws closer to the truth, something ominous and malevolent grips her and her family…",
+                    "tags": [
+                        "2024",
+                        "2 Seasons",
+                        "A",
+                        "Drama"
+                    ],
+                    "ott": "pv"
+                },
+                {
+                    "nameLogo": "https://m.media-amazon.com/images/S/pv-target-images/88d5c8bdffe035901cc2660ddf4e832f72b97e8cdb26994508a6ac5d193f2c96._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/m-r/Prime/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kvf21cb47db8d34aa971cd86f57a65cf8d_SX248_FMjpg_.jpg",
+                    "title": "Lore",
+                    "description": "Season 2 of Lore marks a deeper dive into the the surprising characters and real-life stories behind some of the world's historical atrocities. Ranging from the Middle Ages to the Age of Rockets, Lore 2 explores the motivations of the damned and the bloody and far-reaching aftermath of that damnation.",
+                    "tags": [
+                        "2018",
+                        "2 Seasons",
+                        "U/A 16+",
+                        "Drama"
+                    ],
+                    "ott": "pv"
+                }
+            ]
+        },
+        {
+            "title": "Marvel Series",
+            "list": [
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7455/1741157787455-t",
+                    "title": "Marvel's Daredevil",
+                    "id": "1260091261",
+                    "description": "Blinded as a young boy, Matt Murdock fights injustice by day as a lawyer and by night as the Super Hero Daredevil in Hell's Kitchen, New York City.\\n",
+                    "tags": [
+                        "2018",
+                        "A",
+                        "3 Seasons",
+                        "2 Languages",
+                        "Super Heroes"
+                    ]
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7032/1607032-t-73a2c8df16e9",
+                    "title": "Loki",
+                    "id": "1260063451",
+                    "description": "The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of “Avengers: Endgame.”",
+                    "tags": [
+                        "2023",
+                        "U/A 13+",
+                        "2 Seasons",
+                        "4 Languages",
+                        "Science Fiction"
+                    ]
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7520/1417520-t-4197a648dfff",
+                    "title": "Moon Knight",
+                    "id": "1260089681",
+                    "description": "Mild-mannered Steven Grant has dissociative identity disorder and shares a body with a mercenary.",
+                    "tags": [
+                        "2022",
+                        "U/A 16+",
+                        "1 Season",
+                        "5 Languages",
+                        "Action"
+                    ]
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/7410/1417410-t-7cea529419f3",
+                    "title": "Hawkeye",
+                    "id": "1260073683",
+                    "description": "Clint Barton/Hawkeye must team up with skilled archer Kate Bishop to unravel a criminal conspiracy.",
+                    "tags": [
+                        "2021",
+                        "U/A 13+",
+                        "1 Season",
+                        "5 Languages",
+                        "Action"
+                    ]
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9735/1379735-t-1d5398d017f8",
+                    "title": "Marvel's The Punisher",
+                    "id": "1260091274",
+                    "description": "A former Marine out to punish the criminals responsible for his family's murder finds himself ensnared in a military conspiracy.",
+                    "tags": [
+                        "2019",
+                        "A",
+                        "2 Seasons",
+                        "English",
+                        "Action"
+                    ]
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2169/1412169-t-12579fe94ae2",
+                    "title": "The Falcon and The Winter Soldier",
+                    "id": "1260055670",
+                    "description": "Following the events of “Avengers: Endgame,” Sam Wilson and Bucky Barnes team up in a global adventure that tests their abilities and their patience.",
+                    "tags": [
+                        "2021",
+                        "U/A 13+",
+                        "1 Season",
+                        "4 Languages",
+                        "Action"
+                    ]
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9843/1379843-t-2938ea055af0",
+                    "title": "Marvel's Jessica Jones",
+                    "id": "1260089834",
+                    "description": "When a tragedy ends her career as a superhero, Jessica opens her own detective agency, which seems to attract cases involving people who have special abilities.",
+                    "tags": [
+                        "2019",
+                        "U/A 16+",
+                        "3 Seasons",
+                        "English",
+                        "Action"
+                    ]
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_156/sources/r1/cms/prod/7527/1417527-t-b82723d07c56",
+                    "title": "She-Hulk: Attorney at Law",
+                    "id": "1260103788",
+                    "description": "Jennifer Walters, an attorney specialising in superhuman-oriented legal cases, must navigate the complicated life of a single, green 6-foot-7-inch hulk.",
+                    "tags": [
+                        "2022",
+                        "U/A 16+",
+                        "1 Season",
+                        "5 Languages",
+                        "Action"
+                    ]
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/2844/1382844-t-c40828be0daf",
+                    "title": "WandaVision",
+                    "id": "1260051344",
+                    "description": "Wanda Maximoff and Vision—two super-powered beings living idealized suburban lives—begin to suspect that everything is not as it seems.",
+                    "tags": [
+                        "2021",
+                        "U/A 13+",
+                        "1 Season",
+                        "English",
+                        "Drama"
+                    ]
+                },
+                {
+                    "nameLogo": "https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9761/1379761-t-9a429891a8c7",
+                    "title": "Marvel's Luke Cage",
+                    "id": "1260091266",
+                    "description": "Wrongfully convicted for a crime, Luke Cage, a fugitive, attempts to rebuild his life in Harlem, but his past pulls him into a battle for the heart of his city.",
+                    "tags": [
+                        "2018",
+                        "U/A 16+",
+                        "2 Seasons",
+                        "English",
+                        "Action"
+                    ]
+                }
+            ]
+        }
     ]
 }
