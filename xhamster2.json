@@ -148,7 +148,7 @@
       "src": "https://xhamster.com/api/front/search/suggest?searchValue=${searchQuery}&searchScope=video&orientation=straight",
       "srcHeaders": {},
       "rule": "data.map((d) => ({ title: d.plainText, img: d.avatar, src: d.link }))",
-      "open": "searchVideos",
+      "open": "searchVideos"
     }
   },
   {
@@ -275,5 +275,5 @@
       "imgAspectRatio": 1
     }
   }
-  }
-]
+  ]
+}
