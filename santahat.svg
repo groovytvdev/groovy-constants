@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Hat body -->
+  <path d="M15 70 C23 40 47 12 76 8 C83 7 87 14 82 20 C72 32 76 48 88 70 Z" fill="#E53935"/>
+
+  <!-- Hat highlight -->
+  <path d="M25 59 C39 34 57 19 76 13" stroke="#FF7777" stroke-width="4" stroke-linecap="round" opacity=".5"/>
+
+  <!-- Bottom fluffy trim -->
+  <path d="M15 65 C28 60 38 66 48 66 C61 66 74 59 88 65 L91 78 C77 73 64 82 49 81 C35 81 23 74 12 80 Z" fill="#FFFFFF"/>
+
+  <!-- Trim texture -->
+  <path d="M23 67 Q27 73 32 68 M43 69 Q47 76 53 70 M65 69 Q69 75 75 67" stroke="#E8E8E8" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Pom pom -->
+  <circle cx="82" cy="12" r="9" fill="#FFFFFF"/>
+  <circle cx="78" cy="8" r="3" fill="#F5F5F5"/>
+  <circle cx="87" cy="9" r="3" fill="#F5F5F5"/>
+</svg>
