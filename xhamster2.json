@@ -1,5 +1,5 @@
 {
-  "logo": {"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpogW3lDMK59Xs7ck2btkQ4EXiwmwVBYfuWxoxHWYClAZ0ksgeQ4b9zrw&s=10", "aspectRatio": 4, "x": 15, "height": "60%"},
+  "logo": {"url": "https://raw.githubusercontent.com/groovytvdev/groovy-constants/refs/heads/main/xhamster.png", "aspectRatio": 4.08, "x": 15, "height": "80%"},
   "videoInjection": "document.querySelector('button[data-role=parental-control-confirm-button]')?.click();try{window.ReactNativeWebView.postMessage( JSON.stringify( ({ imageHeaders: { 'Referer': 'https://www.xhamster.com/' }, headers: { 'Referer': 'https://www.xhamster.com/' }, links: initials.videoTagsComponent.tags.map((e)=>({ name: e.name, link: e.url, img: e.thumbUrl, star: e.isPornstar, channel: e.isBrand || e.isChannel })), url: { 'auto': xplayer?.core?.sourceController?.hlsSource}, likes: initials?.videoEntity?.rating?.likes, views: initials?.videoEntity?.views, recommendedVideos: initials?.videoPageComponent?.relatedVideos?.videoTabInitialData?.videoListProps?.videoThumbProps?.slice(0,18).map(e=>({ title: e.title, thumbnailUrl: e.thumbURL, preview: e.trailerURL, src: e.pageURL, duration: new Date(e.duration * 1000).toISOString().substring(e.duration >= 3600 ? 11 : 14, 19) })), ready: true }) ))}catch(e){window.ReactNativeWebView.postMessage( JSON.stringify({ error: e.message }));}",
   "linkOpener": [
     {
