@@ -1,4 +1,11 @@
 {
+	"logo": { 
+		"url": "https://www.allowflash.com/storage/logos/logo.webp", 
+		"aspectRatio": 3.7627, 
+		"height": "60%", 
+		"x": 15,
+		"festivalLogo": { "url": "https://raw.githubusercontent.com/groovytvdev/groovy-constants/refs/heads/main/allowflash-christmas.png", "aspectRatio": 3, "x": 15, "height": "60%", "start": "2026-11-01T00:00:00", "end": "2026-12-30T23:59:59" }
+	},
 	"videoInjection": "try{window.ReactNativeWebView.postMessage( JSON.stringify( { channel: { name: 'Allow Flash', img: 'https://www.allowflash.com/assets/favicon/favicon-96x96.png', link: 'https://www.allowflash.com/?search=sister' }, type: 'mp4', url: { '720p': document.querySelector('video > source')?.src }, links: [...document.querySelectorAll('a.inline-flex.text-md.text-primary-500')].map((e)=>({ name: e?.textContent?.trim(), link: e?.href, category: true })), recommendedVideos: [...document.querySelectorAll('.grid > article')].filter((e)=>!e.querySelector('div.absolute.right-2.top-2.z-10.rounded-full.p-1 > svg.h-4.w-4.text-amber-400')).map((e)=>({ title: e.querySelector('h2 > a')?.textContent?.trim(), src: e.querySelector('h2 > a')?.href, duration: e.querySelector('div.rounded-sm.font-medium.text-white')?.textContent?.trim(), views: e.querySelector('div.flex.items-center.rounded-sm.font-medium.text-white > span')?.textContent?.trim(), thumbnailUrl:  e.querySelector('img.h-40.w-full.object-fill').src, spriteData: { width: 1800, height: 1250, rows: 5, cols: 6 }, spriteUrl: e.querySelector('div[data-sprite-img]')?.dataset?.spriteImg})), likes: document.querySelector(`button[x-tooltip='Favorite!'] > span`)?.textContent?.trim(), views: document.querySelector('button[x-tooltip=Views] > span')?.textContent?.trim(), ready: true } ))}catch(e){window.ReactNativeWebView.postMessage( JSON.stringify({ error: e.message }));}",
 	"linkOpener": [
 		{
