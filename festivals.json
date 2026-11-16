@@ -8,7 +8,7 @@
       "name": "Christmas"
     },
     {
-      "bgImg": { "url": "https://static.vecteezy.com/system/resources/thumbnails/016/626/068/small/watercolor-happy-new-year-clipart-element-png.png", "style": { "width": 100, "aspectRatio": 1.6142857, "top": 0, "left": 0 } },
+      "bgImg": { "url": "https://raw.githubusercontent.com/groovytvdev/groovy-constants/refs/heads/main/newyear.webp", "style": { "width": "40%", "aspectRatio": 1.6142857, "top": 0, "left": "30%" } },
       "bgGif": { "url": "https://i.pinimg.com/originals/a1/4d/f2/a14df22726e1964e347dc13b182457e5.gif", "objectFit": "cover" },
       "settingsImg": { "type": "svg", "position": "front", "url": "https://www.svgrepo.com/show/300279/celebration-flag-garland.svg", "width": 40, "height": 40, "viewBox": "0 0 512 512", "style": { "top": -27, "left": -3, "width": 40, "height": 40, "transform": [{ "rotate": "0deg" }] }, "focusStyle": { "left": 2, "transform": [{ "rotate": "15deg" }] } },
       "start": "2027-01-01T00:00:00",
