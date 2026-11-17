@@ -10,7 +10,7 @@
     {
       "bgImg": { "url": "https://raw.githubusercontent.com/groovytvdev/groovy-constants/refs/heads/main/newyear.webp", "style": { "width": "20%", "aspectRatio": 1.6142857, "top": 0, "left": "40%" } },
       "bgGif": { "url": "https://i.pinimg.com/originals/a1/4d/f2/a14df22726e1964e347dc13b182457e5.gif", "objectFit": "cover" },
-      "settingsImg": { "type": "img", "position": "front", "url": "https://raw.githubusercontent.com/groovytvdev/groovy-constants/refs/heads/main/new-year-hat.png", "style": { "top": -27, "left": -3, "width": 40, "height": 40, "transform": [{ "rotate": "0deg" }] }, "focusStyle": { "left": 2, "transform": [{ "rotate": "15deg" }] } },
+      "settingsImg": { "type": "img", "position": "front", "url": "https://raw.githubusercontent.com/groovytvdev/groovy-constants/refs/heads/main/new-year-hat.png", "style": { "top": -20, "left": 0, "width": 40, "height": 40, "transform": [{ "rotate": "0deg" }] }, "focusStyle": { "left": 6, "transform": [{ "rotate": "15deg" }] } },
       "start": "2027-01-01T00:00:00",
       "end": "2027-01-02T00:00:00",
       "name": "New Year"
